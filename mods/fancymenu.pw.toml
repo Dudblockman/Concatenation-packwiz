@@ -1,13 +1,13 @@
 name = "FancyMenu"
-filename = "fancymenu_forge_3.6.2_MC_1.20.1.jar"
+filename = "fancymenu_forge_3.7.0_MC_1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "bcfefe52746b824d70e86ad4815f01b532da2dfc"
+hash = "f33a40f7d33585e781d90d00d156178e369ae8ed"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6722592
+file-id = 6918987
 project-id = 367706
