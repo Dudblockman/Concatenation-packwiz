@@ -1,0 +1,12 @@
+name = "Concatenation"
+version = "1.0.9"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f891e90ba6db0c035d6669963e5c0eee81731cc6936b0235b63911442624e03b"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"

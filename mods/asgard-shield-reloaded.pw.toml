@@ -1,0 +1,13 @@
+name = "Asgard Shield: Reloaded"
+filename = "AsgardShieldReloaded-1.20.1-0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4d30a15ef7b9c60d5b6d5ebf6e21e692e502677a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4595419
+project-id = 334976

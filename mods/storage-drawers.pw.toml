@@ -1,0 +1,13 @@
+name = "Storage Drawers"
+filename = "StorageDrawers-forge-1.20.1-12.11.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "724a7a95762ef8f995088e0805095c6b2a1d7e78"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6884766
+project-id = 223852

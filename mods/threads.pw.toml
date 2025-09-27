@@ -1,0 +1,13 @@
+name = "Threads"
+filename = "Threads-1.0.2-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "83d87e0932be0dd54cc5268cc90a77514d01e340"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4968662
+project-id = 901478

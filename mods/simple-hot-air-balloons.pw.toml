@@ -1,0 +1,13 @@
+name = "Simple Hot Air Balloons"
+filename = "SHAB FORGE (1.20.1) V1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf5ab0cf009299dbc8ff7b915d1fa26905f3f70f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5515213
+project-id = 783283
