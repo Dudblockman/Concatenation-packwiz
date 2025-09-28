@@ -2668,11 +2668,6 @@ hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
 metafile = true
 
 [[files]]
-file = "mods/coastal-waves.pw.toml"
-hash = "d9fe1cbdd51d3a0992418b01f95fe24f865c3913e890ff2c69eb08abfc4c34f7"
-metafile = true
-
-[[files]]
 file = "mods/cobweb.pw.toml"
 hash = "bc5bde51620622b9f415bcc3dfea4dca5bd17171383cf4290e1075b7352adbe0"
 metafile = true
