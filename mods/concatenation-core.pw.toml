@@ -1,13 +1,13 @@
 name = "Concatenation Core"
-filename = "concatenationcore-1.0.8-forge-1.20.1.jar"
+filename = "concatenationcore-1.0.9-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ced0ad6ce8273b6ad6071b11999e5663c5fea6fa"
+hash = "11bff20aab817ba6f1d760ab2f11237ea8d401d4"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7033721
+file-id = 7037406
 project-id = 982026
