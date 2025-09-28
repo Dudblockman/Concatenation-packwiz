@@ -76,13 +76,13 @@
 
 [xpCost]
 	#Set to true if experience cost should be inverted, meaning the shorter the distance, the more expensive. Can be used to encourage other methods for short-distance travel.
-	inverseXpCost = false
+	inverseXpCost = true
 	#The amount of blocks per xp level requirement. If set to 500, the base xp cost for travelling 1000 blocks will be 2 levels.
 	blocksPerXpLevel = 250
 	#The minimum base xp cost (may be subceeded by multipliers defined below)
-	minimumBaseXpCost = 1.0
+	minimumBaseXpCost = 5.0
 	#The maximum base xp cost (may be exceeded by multipliers defined below), set to 0 to disable all distance-based XP costs
-	maximumBaseXpCost = 10.0
+	maximumBaseXpCost = 20.0
 	#How much xp is needed per leashed animal to travel with you
 	xpCostPerLeashed = 0
 	#The base xp level cost when travelling between dimensions. Ignores block distance.
@@ -90,17 +90,17 @@
 	#The multiplier applied to the base xp cost when teleporting to a global waystone through any method.
 	globalWaystoneXpCostMultiplier = 2.5
 	#The multiplier applied to the base xp cost when teleporting using a Warp Stone item (not the Waystone block, Konstantin)
-	warpStoneXpCostMultiplier = 0.0
+	warpStoneXpCostMultiplier = 1.0
 	#The multiplier applied to the base xp cost when teleporting from one waystone to another.
-	waystoneXpCostMultiplier = 0.0
+	waystoneXpCostMultiplier = 1.0
 	#The multiplier applied to the base xp cost when teleporting from one sharestone to another.
-	sharestoneXpCostMultiplier = 0.0
+	sharestoneXpCostMultiplier = 1.0
 	#The multiplier applied to the base xp cost when teleporting from a portstone.
-	portstoneXpCostMultiplier = 0.0
+	portstoneXpCostMultiplier = 1.0
 	#The multiplier applied to the base xp cost when teleporting from one warp plate to another.
-	warpPlateXpCostMultiplier = 0.0
+	warpPlateXpCostMultiplier = 1.0
 	#The multiplier applied to the base xp cost when teleporting via the inventory button.
-	inventoryButtonXpCostMultiplier = 0.0
+	inventoryButtonXpCostMultiplier = 1.0
 
 [compatibility]
 	#If enabled, JourneyMap waypoints will be created for each activated waystone.

@@ -805,42 +805,6 @@ file = "config/craftingtweaks-common.toml"
 hash = "a2f3940fbd0583446912f67761d1c5be8ea734c78bff1db54c7c5b53cd5576ed"
 
 [[files]]
-file = "config/crash_assistant/config.toml"
-hash = "4fe0cc88665e1823743db924359682418b007803f02adb512a9050f8d758fc34"
-
-[[files]]
-file = "config/crash_assistant/lang/README.md"
-hash = "92deb5c02f7625e07c4e477c1d8cf3b1fb920e27aea38b45ed0c06c4c0e420fc"
-
-[[files]]
-file = "config/crash_assistant/lang/en_us.json"
-hash = "20e9e8425837b56b594ec127bf1596c4c5e9adb364569aa23db7b61e13819c1c"
-
-[[files]]
-file = "config/crash_assistant/lang/es_es.json"
-hash = "20e9e8425837b56b594ec127bf1596c4c5e9adb364569aa23db7b61e13819c1c"
-
-[[files]]
-file = "config/crash_assistant/lang/it_it.json"
-hash = "20e9e8425837b56b594ec127bf1596c4c5e9adb364569aa23db7b61e13819c1c"
-
-[[files]]
-file = "config/crash_assistant/lang/ru_ru.json"
-hash = "20e9e8425837b56b594ec127bf1596c4c5e9adb364569aa23db7b61e13819c1c"
-
-[[files]]
-file = "config/crash_assistant/lang/zh_cn.json"
-hash = "20e9e8425837b56b594ec127bf1596c4c5e9adb364569aa23db7b61e13819c1c"
-
-[[files]]
-file = "config/crash_assistant/modlist.json"
-hash = "78ac83d85852b712f1db0bf6eb7edbddd2e04b36edcf5128065333d497bbbb21"
-
-[[files]]
-file = "config/crash_assistant/problematic_mods_config.json"
-hash = "989fb8f797a5a894f0cbf8bf529ac20c88cceee72384bdbeedd6a22d455199a3"
-
-[[files]]
 file = "config/create-client.toml"
 hash = "8d0e696bdb1130a128ccef2d22443c2bf5e5cd8daa03bc11bbbf3a9676535023"
 
@@ -1930,7 +1894,7 @@ hash = "8f198622fba0fb43ca16e5402bff53458e7af5482462f8821ef690140a251bef"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "a514bff4a21af37ba8061cd9b73766b71ed3292695cf39742d94c78837a4c247"
+hash = "5201ecf77c61e874ad53be1e321a66a6f5e5f40c6440116b1d2411ba73af4b20"
 
 [[files]]
 file = "config/welcomescreen/welcomescreen/welcomescreen.json5"
@@ -2585,7 +2549,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "c2d7012f0e742a51b05e497878edf9ca54a9d8c6e852955f1f3a3ea5919fed63"
+hash = "b888554390b32341c927fe9d08329f248ed2d7b3f61587cc592668816417608b"
 metafile = true
 
 [[files]]
@@ -2651,6 +2615,11 @@ metafile = true
 [[files]]
 file = "mods/carry-on.pw.toml"
 hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
+metafile = true
+
+[[files]]
+file = "mods/caupona.pw.toml"
+hash = "8517132706f5a99edaf7705b6a4c2c934972dabcacca279f6d8abdef874d9949"
 metafile = true
 
 [[files]]
@@ -2804,11 +2773,6 @@ hash = "e392ff51b7a6280006d633dde678e5ced8ae5a65035a42c213dd6386d234c394"
 metafile = true
 
 [[files]]
-file = "mods/crash-assistant.pw.toml"
-hash = "00b52d33701c32021d9a289fd2b1e3cac09f391b0d3e4be6394126dd5ad4b109"
-metafile = true
-
-[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "f09161c0a013e3fdef2f6ee981cd68c29dc7801228bae9ebc16959e75bd38596"
 metafile = true
@@ -2856,6 +2820,11 @@ metafile = true
 [[files]]
 file = "mods/create-metallurgy.pw.toml"
 hash = "398c271d3905c369609825c7caeac982de15652f89fa1d71ca21ca747af5a298"
+metafile = true
+
+[[files]]
+file = "mods/create-mobile-packages.pw.toml"
+hash = "1d9d72055b09d16ca9d55951b4d9d93dfe0590f9d3a0418560d0af6527849d3c"
 metafile = true
 
 [[files]]
@@ -3024,9 +2993,8 @@ hash = "fd5aa059dd7e148e9ce801455b438425c0ad36537ce4b635edeb524900b15284"
 metafile = true
 
 [[files]]
-file = "mods/fastboot.pw.toml"
-hash = "d29b6a0cc5aa2d6402337f7545e89271b095a9ddab686e921d793afb5d1883ce"
-metafile = true
+file = "mods/fastboot-1.20.x-1.2.jar"
+hash = "66c44b0648a3e3d4115c37593208b85668a97ce012355bad3d33f3cd8142a11f"
 
 [[files]]
 file = "mods/fastsuite.pw.toml"
@@ -3044,14 +3012,18 @@ hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "62ef7e92478035b77e996189984e4749b2d876ed0a389977a2670a28f105bfd2"
+metafile = true
+
+[[files]]
 file = "mods/ftb-chunks-forge.pw.toml"
 hash = "c727cdfb22c0a34cafbdb2e33da7504e6aa9e96a0d78e5d913bf5fa9006d44c7"
 metafile = true
 
 [[files]]
-file = "mods/ftb-chunks-recoloured.pw.toml"
-hash = "eeb686993eeab4daf934079946966780ba7d367c41316e5febcda85059b4f85e"
-metafile = true
+file = "mods/ftb-chunks-modded-1.20+1.1.9.jar"
+hash = "ac1c0d687867b98ce9c1f86e70bc112e9a1e07b654f21bdcadcb0fa40c090dbb"
 
 [[files]]
 file = "mods/ftb-essentials.pw.toml"
@@ -3099,11 +3071,6 @@ hash = "c46659c3e873e0ca121f5215991ae8bc989132a3fea0c2da9eed0f22a947b2b9"
 metafile = true
 
 [[files]]
-file = "mods/gputape.pw.toml"
-hash = "3519d01e4490de15f682c67333b67bd4b7057ba25937d9aaa517c76854f73ef7"
-metafile = true
-
-[[files]]
 file = "mods/guideme.pw.toml"
 hash = "8c635c96e2449280329a0d3daaa279886a7e667aaabf122d344d47f72b065546"
 metafile = true
@@ -3114,9 +3081,8 @@ hash = "1a6b03437d3f80ac96348dc8e5f1077f3271f594a8a560c43375117fd8f176c1"
 metafile = true
 
 [[files]]
-file = "mods/hexerei.pw.toml"
-hash = "79bfdf5bd4e7cc009b4ae84ab27b1f358bf2da1aa8f30102e77e1aae66aed688"
-metafile = true
+file = "mods/hexerei-0.4.2.3.jar"
+hash = "419db9f15af0ac694dc53a9cc99fa97c3a0ef787ae3d43d9aff87d2030e3f556"
 
 [[files]]
 file = "mods/iceberg.pw.toml"
@@ -3295,7 +3261,7 @@ metafile = true
 
 [[files]]
 file = "mods/magnesium-extras.pw.toml"
-hash = "c8c25cccf1f0c3aaa0a5639f28f40d61b4eadd3130558b39ce6c279b8b775556"
+hash = "27f69e040bd3275a1ee455353f1ad31b69200d72122308ead260522a6c2525e0"
 metafile = true
 
 [[files]]
@@ -3404,14 +3370,13 @@ hash = "dbd8ee9c150f054d96e1e3cf97c8cb169cf854a84532e21daab9e11309a67fcf"
 metafile = true
 
 [[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "43c6d7667d61b4df81bff2358e967717faaac2ba73cab4c30690f0015a1fb8ce"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-crashes-forge.pw.toml"
 hash = "232f73206d09fb0c8cac662fb82bbb53367795818ef05f70c290e391a5e4fa03"
 metafile = true
+
+[[files]]
+file = "mods/notenoughanimations-forge-1.10.2-mc1.20.1.jar"
+hash = "29d7567b92d8cf5f9ca06e3a901fb149318d0fca82097e5f0f5e568df9a2c120"
 
 [[files]]
 file = "mods/notenoughrecipebook.pw.toml"
@@ -3425,7 +3390,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+hash = "200f79b635a087841698c85ac7028f0a1fac2cc4ffae1d59ff3f07a94abfe70e"
 metafile = true
 
 [[files]]
@@ -3494,9 +3459,8 @@ hash = "5ca42f4c23aee558ed76923d4fb92ecee736ebacb53790445c09d46bd9ccb27e"
 metafile = true
 
 [[files]]
-file = "mods/realm-rpg-dragon-wyrms.pw.toml"
-hash = "f62d7a222828a775e82d08a8e174b61c01a11a59531b108643d8e33afb400eaf"
-metafile = true
+file = "mods/realmrpg_dragon_wyrms_1.0.1_forge_1.20.1.jar"
+hash = "c252a7900f6f518c7344755b4000a33ca2291941204ef849cbdf14626fcc6873"
 
 [[files]]
 file = "mods/reliquary-reincarnations.pw.toml"
@@ -3595,7 +3559,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-options-api.pw.toml"
-hash = "5240c62752415b5d66d4beffec4fe98c253eba8ebcbb2a5c1097fc3ad3de0b00"
+hash = "bec4fd7f9b90e9040786e31d14bf4af7fb42fce842b9f5acfdd0821c973ecb82"
 metafile = true
 
 [[files]]
@@ -3680,7 +3644,7 @@ metafile = true
 
 [[files]]
 file = "mods/threads.pw.toml"
-hash = "4b02d11a3c54cc8c7c5af02752e6e8f598e3a157df6564fea3ce1a5be7b09458"
+hash = "5d49171fb508dead4eae7a7fe840bfc993520b5cd8c1adef7af791b3bf0e0243"
 metafile = true
 
 [[files]]
