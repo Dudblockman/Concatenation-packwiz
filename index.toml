@@ -3648,6 +3648,11 @@ hash = "b0978cb7ae7b79c5be89b323ca1bd038f693ff6d11c43dfcbd63953964149af2"
 metafile = true
 
 [[files]]
+file = "mods/the-mighty-architectury.pw.toml"
+hash = "9ac5e8e1ab023cedb299a745a00201d19fd36ec289a74169071774f119efed53"
+metafile = true
+
+[[files]]
 file = "mods/thermal-cultivation.pw.toml"
 hash = "a2b0b8b765b7d8ef735276c0c09488353da50671f3a62684b1046a052f3a8a15"
 metafile = true

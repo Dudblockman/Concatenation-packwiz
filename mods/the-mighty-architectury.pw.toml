@@ -1,0 +1,13 @@
+name = "The Mighty Architectury"
+filename = "mightyarchitect-0.9.0-FORGE.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FDYDUHRw/versions/Exk4AA4x/mightyarchitect-0.9.0-FORGE.jar"
+hash-format = "sha512"
+hash = "e43c52110f4fe712d5fb4295c5de0dfcc22fb8c00cd80b57b365997cbfacbb6b6360e9b3d208a3027a52af56fee7665bda0ece232834b59c7ca63b0d68a3fe30"
+
+[update]
+[update.modrinth]
+mod-id = "FDYDUHRw"
+version = "Exk4AA4x"
