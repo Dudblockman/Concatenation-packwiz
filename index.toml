@@ -3598,6 +3598,11 @@ hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
 metafile = true
 
 [[files]]
+file = "mods/spice-of-life-valheim-reforged.pw.toml"
+hash = "801d4b4a7e9edfbaa4c9c5dae6189b8113daddf002555aff0de7cffbbaff277b"
+metafile = true
+
+[[files]]
 file = "mods/starter-kit.pw.toml"
 hash = "77a9d81c6cb8e4ed4440de7ab75cdc3417359e9ab56f8a7e5dde292032c2ecef"
 metafile = true

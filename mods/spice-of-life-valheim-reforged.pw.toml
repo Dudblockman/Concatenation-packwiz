@@ -1,0 +1,13 @@
+name = "Spice of Life: Valheim Reforged"
+filename = "sol_valheim_reforged-1.1.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "98c39e01946edcc1f80ac85d45429ad092d053bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6935382
+project-id = 1257571
