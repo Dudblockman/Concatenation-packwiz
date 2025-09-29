@@ -2473,6 +2473,11 @@ hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
 metafile = true
 
 [[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "19f470521e7119c5fc1754e40e40b171eeef11335c54167cb482998c0737e979"
+metafile = true
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "8972c6f2a57b50762e2a03c0d135a5d7ea235ee079e467fca35206b6d7f4f8ac"
 metafile = true
@@ -2545,6 +2550,11 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
+metafile = true
+
+[[files]]
+file = "mods/auto-reauth.pw.toml"
+hash = "8c677e681282f62dc0da555146cccb2fc4e6d59516a48f8dbd6da90dc3d8e596"
 metafile = true
 
 [[files]]
@@ -2968,6 +2978,16 @@ hash = "638f7c447dbe7dc2e85e4bf89d70fb41632db940a57de498094f2be57fa6c18d"
 metafile = true
 
 [[files]]
+file = "mods/etched.pw.toml"
+hash = "c9f73e2b93b64fb0c44fbbde6245a5d5934143d6c4b9cc9829e3ba62c02ead4e"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "ea36b8516ea429e479368b708082e89af5fa50dc3576b52c2ff8c8dac595801c"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "edaaadc4ed94a439ce6ddebaa9e3039e58ec5243d633f93c85e09ce7146c6e3c"
 metafile = true
@@ -3078,6 +3098,11 @@ metafile = true
 [[files]]
 file = "mods/hexerei-0.4.2.3.jar"
 hash = "419db9f15af0ac694dc53a9cc99fa97c3a0ef787ae3d43d9aff87d2030e3f556"
+
+[[files]]
+file = "mods/hypertubes.pw.toml"
+hash = "01c9fa2a99443fec82ce06b406f1ea4e1504e5da74dbe52c00866ed5fc1b1663"
+metafile = true
 
 [[files]]
 file = "mods/iceberg.pw.toml"
@@ -3454,6 +3479,11 @@ hash = "5ca42f4c23aee558ed76923d4fb92ecee736ebacb53790445c09d46bd9ccb27e"
 metafile = true
 
 [[files]]
+file = "mods/quark.pw.toml"
+hash = "4eb683644ee4e38e00b06df946b71ad8fedaa860fcabbd91ec6ceb71c65b8d81"
+metafile = true
+
+[[files]]
 file = "mods/realmrpg_dragon_wyrms_1.0.1_forge_1.20.1.jar"
 hash = "c252a7900f6f518c7344755b4000a33ca2291941204ef849cbdf14626fcc6873"
 
@@ -3590,6 +3620,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "ee06d2e29fb1709048c1759b55ba6add3fde55d09c1dbc07b2db41e92a531c53"
 metafile = true
 
 [[files]]
@@ -3770,6 +3805,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-mineshafts-forge.pw.toml"
 hash = "e0d77569aa19c6b72d30cb895cef575837a5740bee489d3ae537edf40a900ab1"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+hash = "557d160e4a3d856c6bbe36c39ee7c6cd42824363690b61d5f23bbac153c8edbc"
 metafile = true
 
 [[files]]
