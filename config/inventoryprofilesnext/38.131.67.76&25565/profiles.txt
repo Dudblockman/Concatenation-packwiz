@@ -1,0 +1,14 @@
+
+
+
+
+profile Saved activate HOT8
+	HOT1
+		"asr:golden_giant_sword"
+	HOT2
+		"tarotcards:the_magician" -> "Enchantments" : [{id:"ars_elemental:soulbound",lvl:1}]
+	HOT3
+		"ftbquests:book"
+	HOT9
+		"usefulbackpacks:backpack_small"
+
