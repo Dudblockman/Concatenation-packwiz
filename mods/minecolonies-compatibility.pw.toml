@@ -1,13 +1,13 @@
 name = "Compatibility addon for MineColonies"
-filename = "MineColonies_Compatibility-1.20.1-2.92.jar"
+filename = "MineColonies_Compatibility-1.20.1-2.93.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "77e127f028f258b559652140ef711c9bbffb765b"
+hash = "c95a6687e3fd32d932fc5137f53537196b2f725b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7038826
+file-id = 7045846
 project-id = 1006214

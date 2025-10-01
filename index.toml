@@ -2755,7 +2755,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "bcbdefc3141031a1d3acff9ef3ecd93dae5946c632f1675ba4c9a7cb875b369a"
+hash = "329ba04415403dbef1ef9ccae47e778dbe62fadcfa9de63bfefaff07b9864f95"
 metafile = true
 
 [[files]]
@@ -2825,7 +2825,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "b34ab3eeb165e1e89ea277a2bad3da0a4a0ee81d744b30c424e1a0eec7d5042b"
+hash = "9b286283ff04cc6100de5af162bc682826b8aaa7621e3386d7e9efc594459c02"
 metafile = true
 
 [[files]]
@@ -3602,7 +3602,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies-compatibility.pw.toml"
-hash = "4269907561a3502043eae362a6d872e0f3667de72c97d732b82db6ddf692101e"
+hash = "158e311e4921e1d336c9440ecedebb116a99e254609edd2583b32658b525138a"
 metafile = true
 
 [[files]]
@@ -3855,7 +3855,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "b91606fca2b6d577fad8e65f20bf408eae261460f9cf5489eb3fa13fcd3b098c"
+hash = "cf8c0450d6b0f3d226b90b906b97fb2fe514ff1129b9ab389ff37cf7f2727cc0"
 metafile = true
 
 [[files]]
@@ -3920,7 +3920,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "ee06d2e29fb1709048c1759b55ba6add3fde55d09c1dbc07b2db41e92a531c53"
+hash = "7ff5441d2e7ef66d8c5b3b518266189eca0de0b7f3f5e37cdeab9a7c2147beed"
 metafile = true
 
 [[files]]
@@ -4055,7 +4055,7 @@ metafile = true
 
 [[files]]
 file = "mods/via-romana.pw.toml"
-hash = "28f6ddecd2d2766f35eaeaa616481096482a97d8b7f5e9619ad166c5c4dd31a2"
+hash = "a65d08f1c89f4fe781cf20f0c7738b1de644e961910b35c6cb1601e35df1dd1b"
 metafile = true
 
 [[files]]
