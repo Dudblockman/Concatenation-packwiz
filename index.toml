@@ -2453,11 +2453,6 @@ file = "kubejs/startup_scripts/toolTweaks.js"
 hash = "665c935c4704068c15423c0995d5268a064c267f9b5503d251b7f0175424676b"
 
 [[files]]
-file = "mellow.pw.toml"
-hash = "b0ff9dbb6f69bd597eb8e221be6deeff83cd05137453ebb06935b2059b3724b5"
-metafile = true
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "75948439841eb3cbae2f75ee186c338b3311d30ea13f077d6ffc75f7267eabde"
 metafile = true
@@ -2495,11 +2490,6 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "bcbdefc3141031a1d3acff9ef3ecd93dae5946c632f1675ba4c9a7cb875b369a"
-metafile = true
-
-[[files]]
-file = "mods/appleskin.pw.toml"
-hash = "8d0321177fed4a0b48554c40158b43db62f6cdaa768f584ef6a11575dfaa6223"
 metafile = true
 
 [[files]]
@@ -3825,6 +3815,11 @@ metafile = true
 [[files]]
 file = "shaderpacks/Mellow Shader v1.5.5a.zip.txt"
 hash = "5964254f1d4a5a30eeabdd791c6568818a5c0816e473e2fe82fa9ca490b759fc"
+
+[[files]]
+file = "shaderpacks/mellow.pw.toml"
+hash = "b0ff9dbb6f69bd597eb8e221be6deeff83cd05137453ebb06935b2059b3724b5"
+metafile = true
 
 [[files]]
 file = "tacz/tacz-pre.toml"
