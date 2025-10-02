@@ -1729,6 +1729,10 @@ file = "config/psi-common.toml"
 hash = "8e9e6622a86505d564bbe7cf18c53002bd918df6b5107a4c6d566f78cedc49af"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "3c29f5e7ffb923a6c48eef910411d9d9011416929c8330da3c60e20530f8391d"
+
+[[files]]
 file = "config/quarryplus-client.toml"
 hash = "128616a7b9f92dd41fd8a08f1bad4352a5ba0cfdb5f8fd22e2f2389dbbd87d11"
 
