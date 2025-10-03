@@ -3188,16 +3188,6 @@ hash = "8f2270a50a633db681826cbfb691e6efdb25e1e0c4702125c13d525b52fe229f"
 metafile = true
 
 [[files]]
-file = "mods/ecliptic-seasons-multimod-patch.pw.toml"
-hash = "0d7323a687622d0b4094018b4bfa92bc031bc96d66c4e46763c08cb85403555e"
-metafile = true
-
-[[files]]
-file = "mods/ecliptic-seasons.pw.toml"
-hash = "7522194bbcfa4e0741bcf772146e687ad2087243f4e4a75a2d60670a7c5bacf0"
-metafile = true
-
-[[files]]
 file = "mods/elemental-craft.pw.toml"
 hash = "f5a977f5b5842cb0c09db6c9c51cd02c78258c796e604c65e64f3a7e290ae741"
 metafile = true
@@ -3830,6 +3820,11 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "46ec2f81b9426aaf381f5310aae30a3d07b356714890419d6926bce537583c57"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "4337bb9f8d504a42da9ca4d56041e1353aa2f84e5470308e3806ce5650691044"
 metafile = true
 
 [[files]]
