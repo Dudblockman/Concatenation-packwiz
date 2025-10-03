@@ -5,10 +5,6 @@ file = "config/CoroUtil/General.toml"
 hash = "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "ca69d95b7fd8e43bc74cc90b7fd637745cd15f897371b7f054ae51baa2062dc2"
-
-[[files]]
 file = "config/EnderStorage.cfg"
 hash = "95d6adb77aa782b989493aa1be894f18410395a597193310fb8c218aa0184e66"
 
@@ -1014,7 +1010,7 @@ hash = "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "fae40d2e20998b5e20bc59f4d1d40959a95a5fc451a45a345970086a67386f3f"
+hash = "2d0f7904cd206067a46c8b64a88e8b46e855baa11b403fb08355d0e8c4c81630"
 
 [[files]]
 file = "config/emi.css"
@@ -3882,7 +3878,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
+hash = "b309a9627de6d1566c146d6b006d9e2b85a3d29c6cdcc5a3bfffc323a7bb88ec"
 metafile = true
 
 [[files]]
