@@ -2629,6 +2629,10 @@ file = "kubejs/server_scripts/ChariotRecipes.js"
 hash = "5d3f1a410aeea1342e7b8592dec21e0583dce76e1dcf6478db741d60c698de75"
 
 [[files]]
+file = "kubejs/server_scripts/Crate.js"
+hash = "2ae0ad666650597b3bc37dfb4e7934358337d30cb6acef161789a67ce211af4a"
+
+[[files]]
 file = "kubejs/server_scripts/HermitRecipes.js"
 hash = "685a625a9240c7f2e444d4bda2b19862ef89aa5e6bbb2fcefe48bb06a2cdc1e4"
 
