@@ -164,7 +164,7 @@ _version = 3
 	[common.multiThreading]
 		#
 		# How many threads should be used by Distant Horizons?
-		numberOfThreads = 11
+		numberOfThreads = 3
 		#
 		# A value between 1.0 and 0.0 that represents the percentage 
 		# of time each thread can run before going idle. 
@@ -172,7 +172,7 @@ _version = 3
 		# This can be used to reduce CPU usage if the thread count 
 		# is already set to 1 for the given option, or more finely 
 		# tune CPU performance.
-		threadRunTimeRatio = "1.0"
+		threadRunTimeRatio = "0.5"
 
 	[common.logging]
 		#
@@ -629,7 +629,7 @@ _version = 3
 				blocksToIgnore = "NON_COLLIDING"
 				#
 				# The radius of the mod's render distance. (measured in chunks)
-				lodChunkRenderDistanceRadius = 100
+				lodChunkRenderDistanceRadius = 48
 				#
 				# What the value should vanilla Minecraft's texture LodBias be? 
 				# If set to 0 the mod wont overwrite vanilla's default (which so happens to also be 0)
