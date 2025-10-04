@@ -3784,6 +3784,11 @@ hash = "cabb05947e8679a85b271bbbb1f003292c264fca74336ecf7a65036119cf1011"
 metafile = true
 
 [[files]]
+file = "mods/overweight-farming.pw.toml"
+hash = "1deb44f93c9d72a2fee8b3b33fb3da84e228c0d92062111a3d205ebe18225c66"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "6fab924e164f085a461460ad65dc048b528693137ddbc8e3b66667b68305cf54"
 metafile = true
