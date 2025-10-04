@@ -1725,6 +1725,10 @@ file = "config/openloader/resources/Better_Enderdragon.zip"
 hash = "5934f6e7ca3a6ef0549be87eb36170a9f20775c52ac3e667666dc9b9c7e17615"
 
 [[files]]
+file = "config/openloader/resources/ConcatenationTips.zip"
+hash = "face53a1a7e8a8e35a339cdbd6df511591d841011b6d3aa6fa39eff0795773df"
+
+[[files]]
 file = "config/openloader/resources/Create Immersive Aircrafts Resource Pack 1.20.1 - 2.0.zip"
 hash = "5cea67204fb10f4c1b41b1d43b4638074d746cdbff4a90c96e80d20386ea3cb8"
 
