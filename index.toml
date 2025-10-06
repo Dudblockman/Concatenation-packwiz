@@ -2881,11 +2881,6 @@ file = "kubejs/startup_scripts/toolTweaks.js"
 hash = "665c935c4704068c15423c0995d5268a064c267f9b5503d251b7f0175424676b"
 
 [[files]]
-file = "mellow.pw.toml"
-hash = "0763e463d39e532a5463cd554f86223ea09a27f30a3699d6ca2753a1ea122dea"
-metafile = true
-
-[[files]]
 file = "mods/accessories.pw.toml"
 hash = "75948439841eb3cbae2f75ee186c338b3311d30ea13f077d6ffc75f7267eabde"
 metafile = true
@@ -4308,6 +4303,11 @@ metafile = true
 [[files]]
 file = "shaderpacks/Mellow Shader v1.5.5a.zip.txt"
 hash = "48e00e3f6d29c1390a07a0cb9fd4459795afeebc97b0e1c7ec838738872d1844"
+
+[[files]]
+file = "shaderpacks/mellow.pw.toml"
+hash = "0763e463d39e532a5463cd554f86223ea09a27f30a3699d6ca2753a1ea122dea"
+metafile = true
 
 [[files]]
 file = "tacz/tacz-pre.toml"
