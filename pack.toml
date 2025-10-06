@@ -1,11 +1,11 @@
 name = "Concatenation"
-version = "1.1.1"
+version = "1.1.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5ecd184c53e774a99748d2b6c3f61512bfab63e1d383286f412ec0cc3a201d6c"
+hash = "7a08d8ece0b7ed439f131c730ea8fd155c9fcb0139a046915ea1c6d8cb797277"
 
 [versions]
 forge = "47.4.0"
