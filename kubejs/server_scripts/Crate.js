@@ -1,5 +1,5 @@
-onEvent('recipes', event => {
-    // Add the crafting recipe for the Quark Crate
+// Add the crafting recipe for the Quark Crate
+ServerEvents.recipes(event => {
     event.shaped('quark:crate', [
         'IWI',
         'WCW',
@@ -11,8 +11,8 @@ onEvent('recipes', event => {
     });
 });
 
-onEvent('item.registry', event => {
-    // Unhide the Quark Crate in the creative inventory
+// Unhide the Quark Crate in the creative inventory
+ItemEvents.modification(event => {
     event.modify('quark:crate', item => {
         item.showInCreative = true;
     });

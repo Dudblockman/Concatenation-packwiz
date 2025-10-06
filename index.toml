@@ -2726,7 +2726,7 @@ hash = "5d3f1a410aeea1342e7b8592dec21e0583dce76e1dcf6478db741d60c698de75"
 
 [[files]]
 file = "kubejs/server_scripts/Crate.js"
-hash = "2ae0ad666650597b3bc37dfb4e7934358337d30cb6acef161789a67ce211af4a"
+hash = "037c07a6829b8ea63a751f4a579a02fccb9476a82855561b8dfa3fd7e2619aca"
 
 [[files]]
 file = "kubejs/server_scripts/HermitRecipes.js"
