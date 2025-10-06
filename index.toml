@@ -2854,30 +2854,6 @@ hash = "75948439841eb3cbae2f75ee186c338b3311d30ea13f077d6ffc75f7267eabde"
 metafile = true
 
 [[files]]
-file = "mods/adaptive_performance_tweaks_1.20.1-11.5.0.jar"
-hash = "2db15ed132237c4fe6cc675cc95574332a3183709b45d43472a8e0c232f20856"
-
-[[files]]
-file = "mods/adaptive_performance_tweaks_core_1.20.1-11.5.0.jar"
-hash = "37dfd545bbf931e4df44c9a72df1690341dcd192a56c423a3821d34ba917a588"
-
-[[files]]
-file = "mods/adaptive_performance_tweaks_gamerules_1.20.1-11.5.0.jar"
-hash = "c34ad0c90545c770745dd69607facf6a7416008556b2e387904487219f9d896d"
-
-[[files]]
-file = "mods/adaptive_performance_tweaks_items_1.20.1-11.5.0.jar"
-hash = "9355dcca6d4090446a817d5c4b2767f44c98a469498f11c6b4bda04ede9160f7"
-
-[[files]]
-file = "mods/adaptive_performance_tweaks_player_1.20.1-11.5.0.jar"
-hash = "63a52134c0b371e987c3e897148025f050c2cca216202cdf24a5341d79c97a4a"
-
-[[files]]
-file = "mods/adaptive_performance_tweaks_spawn_1.20.1-11.5.0.jar"
-hash = "d1241f6cab84a05a47ca189b9ee9d0b1f13a156c77ab05bdabe45dc30515453f"
-
-[[files]]
 file = "mods/additional-enchanted-miner.pw.toml"
 hash = "737249f918b38c404777870f680c98914c62d119773b6b2d88c2d767f9dea06e"
 metafile = true
