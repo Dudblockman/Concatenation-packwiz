@@ -2238,7 +2238,7 @@ hash = "1b8c513238b3184f98052f21db4f845353a35cb94e09288c547e700a90b70bbf"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "5201ecf77c61e874ad53be1e321a66a6f5e5f40c6440116b1d2411ba73af4b20"
+hash = "b7e5dda74c3f55a248014a4d7cbe3d88ffe9adfd71a68acd1a09773c610d25d3"
 
 [[files]]
 file = "config/welcomescreen/welcomescreen/welcomescreen.json5"
@@ -3000,7 +3000,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "9b286283ff04cc6100de5af162bc682826b8aaa7621e3386d7e9efc594459c02"
+hash = "f8b6ef08945410e1341212a2723477487fb66a2c8fd67dd201433658791d298d"
 metafile = true
 
 [[files]]
@@ -3175,7 +3175,7 @@ metafile = true
 
 [[files]]
 file = "mods/continents.pw.toml"
-hash = "7833229c4c91bc44aa2a91334a26af977f34d226c6f93a227fb3719d8f84a709"
+hash = "45aaba4468cb62e0969f4f2c57583e69d4f46e615b82dd5b28d57055b675f68d"
 metafile = true
 
 [[files]]
@@ -3200,7 +3200,7 @@ metafile = true
 
 [[files]]
 file = "mods/corpse-x-curios-api-compat.pw.toml"
-hash = "3642843372cb6cbd10e85086c328f0a77941e16fdc7d135e08265912fcd84a6c"
+hash = "b82ff450c67ce4ccb0b6960fe020971553513a7e8a03a8b818d4dcf7d43792db"
 metafile = true
 
 [[files]]
@@ -3330,7 +3330,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclops-core.pw.toml"
-hash = "656e8b0a6d0e0ba01c6d916d2d17c6c5ed9e3c77f7ad33020996f0751f943c10"
+hash = "169ec453c3790188b0fba026b56a75428a8590648b11fe6f2177ce8a13340639"
 metafile = true
 
 [[files]]
@@ -3538,7 +3538,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "4646bb5a4309f549c3d37c4d56db379df35128bd16efd200444efe4bd63b995d"
+hash = "f1982207e782ffe93f3cc6b38a910fdd6d9a3630d0d61498d5eb8b31cbe14469"
 metafile = true
 
 [[files]]
@@ -3572,7 +3572,7 @@ hash = "419db9f15af0ac694dc53a9cc99fa97c3a0ef787ae3d43d9aff87d2030e3f556"
 
 [[files]]
 file = "mods/hypertubes.pw.toml"
-hash = "2ea0775bdde10c221c6320e00a316bc6688087f533905c280c29430fb54bd8c0"
+hash = "bfbb290dfaadef6a666f172bc3f333233487fce34b9b44fa356fe55ce6605efd"
 metafile = true
 
 [[files]]
@@ -3612,17 +3612,17 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-crafting.pw.toml"
-hash = "d9560a103d8ec9439a7d33b0ed3324e89b8bbfa5532f8c7deaf0a0ab6bf8e5da"
+hash = "24dde6c031f2508ba8a04ae91667f513e5ef1943a68d9a52a1f1bb0b8fd2518a"
 metafile = true
 
 [[files]]
 file = "mods/integrated-dynamics.pw.toml"
-hash = "7e9f0231adf8aef7385239a197028042291cd69ce8a6ce706369993f944ab754"
+hash = "66c06db1afb3e4e1886463ae17d76a928a2916d36082ac7136a76bf5d6f2b6d0"
 metafile = true
 
 [[files]]
 file = "mods/integrated-scripting.pw.toml"
-hash = "8410f78747d50797b65ba6ad271f3a7d863273bdbfd55d559063165706007e46"
+hash = "96616233f79c2d0bd09b27c216a6fa37e5e083e64ffa9464308a92223c403c8b"
 metafile = true
 
 [[files]]
@@ -3632,7 +3632,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-tunnels.pw.toml"
-hash = "c711ef3c7786b8c04b499cd74211a9271b1d9e05c53829189f2c7c3fd2aa9786"
+hash = "f94aaaa77a213f7b979a3d5a42940de1cc4fcd6af0cb80917b5995df0c0471b6"
 metafile = true
 
 [[files]]
@@ -3847,7 +3847,7 @@ metafile = true
 
 [[files]]
 file = "mods/modonomicon.pw.toml"
-hash = "1901aecdeb083ad78ffdf5c9eb951782bf957392dc84604dff73db4a97473315"
+hash = "81da708e6a9add4237562e15bd2be857cfa3908c50951408ab2137ff1c68fbbd"
 metafile = true
 
 [[files]]
@@ -4109,7 +4109,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "cf8c0450d6b0f3d226b90b906b97fb2fe514ff1129b9ab389ff37cf7f2727cc0"
+hash = "1b582b49488bc745250540dd9fabfcecc0844025262e971b3dc1ceb3777c41db"
 metafile = true
 
 [[files]]
@@ -4314,6 +4314,11 @@ metafile = true
 [[files]]
 file = "mods/useful-backpacks.pw.toml"
 hash = "4e52bebb4b182e57d08331147457b529ae313f1f9b5a560f28e72923f8782d5d"
+metafile = true
+
+[[files]]
+file = "mods/useful-luck.pw.toml"
+hash = "99dd9e2281d3f7dea494ff2bffd441b5d60a3a6e8b9eb44af2f32af30dbf56c6"
 metafile = true
 
 [[files]]
