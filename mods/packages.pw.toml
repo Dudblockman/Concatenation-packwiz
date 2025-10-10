@@ -1,0 +1,13 @@
+name = "Packages"
+filename = "packages-1.20.1-forge-2025.09.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8d665d7e86b2436596ce4519be267cc854ed3f8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6991451
+project-id = 383733
