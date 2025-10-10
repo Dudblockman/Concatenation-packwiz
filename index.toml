@@ -3761,6 +3761,11 @@ hash = "733e902a091f46e33b3b0f03043062aa6d2c7d60a3d28b376db07b32d07725e5"
 metafile = true
 
 [[files]]
+file = "mods/m-dder-name-lib.pw.toml"
+hash = "46f91964cd0894f40c588accf137f56baf47105075820c0a2882ad091576828b"
+metafile = true
+
+[[files]]
 file = "mods/mana-unification.pw.toml"
 hash = "b22e8f73ecf9314ff906dcc0c26adcac5a11c52005faa1266b56360339dc6700"
 metafile = true
