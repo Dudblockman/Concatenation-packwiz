@@ -12,8 +12,6 @@ ServerEvents.recipes(event => {
 });
 
 // Unhide the Quark Crate in the creative inventory
-ItemEvents.modification(event => {
-    event.modify('quark:crate', item => {
-        item.showInCreative = true;
-    });
+ServerEvents.tags('item', event => {
+    event.get('minecraft:creative_inventory').add('quark:crate');
 });

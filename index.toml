@@ -849,6 +849,26 @@ file = "config/cofh_core-common.toml"
 hash = "e254fd10199336dd0e0c1c3f20a8daa1fdf9ca026b02dd9c0064ae1f058b9393"
 
 [[files]]
+file = "config/coldsweat/disabled_mods.txt"
+hash = "ba113e5910eb54f230affbbf638aee153b3d3b0d4d920f6df44d309b57fdc36a"
+
+[[files]]
+file = "config/coldsweat/entity.toml"
+hash = "441a5382bdc96433aed0f6c0343b8a88bf4b0338291be1b67aab35e550e9c09c"
+
+[[files]]
+file = "config/coldsweat/item.toml"
+hash = "46164566de2b743ee93721fe72aaa09d4710f8a2fbfcb593a7266f48316ee507"
+
+[[files]]
+file = "config/coldsweat/main.toml"
+hash = "77d94c9417835494f983b7df78d77ffd18625dbc75e7776c03e4c200a78891f7"
+
+[[files]]
+file = "config/coldsweat/world.toml"
+hash = "dd01179988ddb2be24a9919dc4b035c6f3416e43e89d0948d682ec41593951c1"
+
+[[files]]
 file = "config/collective.json5"
 hash = "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f"
 
@@ -2822,7 +2842,7 @@ hash = "5d3f1a410aeea1342e7b8592dec21e0583dce76e1dcf6478db741d60c698de75"
 
 [[files]]
 file = "kubejs/server_scripts/Crate.js"
-hash = "037c07a6829b8ea63a751f4a579a02fccb9476a82855561b8dfa3fd7e2619aca"
+hash = "03896fc834a419538fadd43727ed4b7be20e708640e4755c9ebc616f4c4306c0"
 
 [[files]]
 file = "kubejs/server_scripts/HermitRecipes.js"
@@ -3441,6 +3461,11 @@ metafile = true
 [[files]]
 file = "mods/etched.pw.toml"
 hash = "c9f73e2b93b64fb0c44fbbde6245a5d5934143d6c4b9cc9829e3ba62c02ead4e"
+metafile = true
+
+[[files]]
+file = "mods/expanded-ae.pw.toml"
+hash = "a41173dfc9ac33c27594d4841196673d7cbe9bf370ce6034e97b13d277a5178a"
 metafile = true
 
 [[files]]
