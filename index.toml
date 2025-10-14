@@ -3409,6 +3409,11 @@ hash = "f5a977f5b5842cb0c09db6c9c51cd02c78258c796e604c65e64f3a7e290ae741"
 metafile = true
 
 [[files]]
+file = "mods/em4es.pw.toml"
+hash = "62f3e6ac8993d309f4bdfcd9c5c301b75c2e17c806c5c6c055e67cb00fde570a"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
 metafile = true

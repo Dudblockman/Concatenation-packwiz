@@ -1,0 +1,13 @@
+name = "EM4ES: ExplorerMapForEveryStructure"
+filename = "em4es-1.1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ma91Td3Q/versions/Nsbnu4B1/em4es-1.1.2.jar"
+hash-format = "sha512"
+hash = "eb33158641d6eb2c6e62e204c96d026dec1ea43de669111e6abc778c2fd74cdc1f7425c359942936d7f670170fdb1c36a34ef9eee218f214f4192d2461a170ef"
+
+[update]
+[update.modrinth]
+mod-id = "ma91Td3Q"
+version = "Nsbnu4B1"
