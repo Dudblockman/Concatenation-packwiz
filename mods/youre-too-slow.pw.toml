@@ -1,0 +1,13 @@
+name = "You're Too Slow"
+filename = "tooslow-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "08178e62872ffc5c05e2499f9b4c5057cbe93a2f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6060797
+project-id = 602156

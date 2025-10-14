@@ -3029,6 +3029,11 @@ hash = "70d3ae93a9064f6885d57fc2adece2ea0f03dcc8f3077a08bb3aedf9c59630ce"
 metafile = true
 
 [[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "7499dcfc1c246bf1ceb3b82992cc7478a9d8e29900f6c77c1c2a425665b4841d"
+metafile = true
+
+[[files]]
 file = "mods/better-fps-render-distance.pw.toml"
 hash = "0651f0e4c8067fbbc25f3efcd1d43278b44d240e4c8e375fb398eaf63e34f58d"
 metafile = true
@@ -3170,7 +3175,7 @@ metafile = true
 
 [[files]]
 file = "mods/concatenation-core.pw.toml"
-hash = "2fbda71d390b8ecf37e97dff9acb95dcd5934e398721a78031586d305abe4b43"
+hash = "14e20750020dbe51a249dba6d8cc4c76be8e6ae506e71d84698dbe5a5ea39a7d"
 metafile = true
 
 [[files]]
@@ -3360,12 +3365,12 @@ metafile = true
 
 [[files]]
 file = "mods/decursio-stages.pw.toml"
-hash = "c238a792bd0d99811ee2e0d2bbca7859207eba2a392c35de7fe0b1de7a0dc5e8"
+hash = "efa22c769356c0d249d175f7a1f36617f5c16e48e437b415f856c82a50ee8c0a"
 metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "d598259ef436826a090142afbb7dc39a97446b7f4c2a314a8659b47698853f8c"
+hash = "1bc1fd0cb2fda0b3950b11efbca3239a89b4184e3b5e0550dd7f1f94ca67cddc"
 metafile = true
 
 [[files]]
@@ -4414,6 +4419,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "c08817fe8025a9d62c8f7abd5f56a54b90673e5ab60f39ae8fa1d70d5ace529b"
+metafile = true
+
+[[files]]
+file = "mods/youre-too-slow.pw.toml"
+hash = "4a5e93cb14b6fe003adcfcab9085f846d82248d516bc5fe5f01987af87b26d61"
 metafile = true
 
 [[files]]
