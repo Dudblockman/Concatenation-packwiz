@@ -4357,11 +4357,6 @@ hash = "4e52bebb4b182e57d08331147457b529ae313f1f9b5a560f28e72923f8782d5d"
 metafile = true
 
 [[files]]
-file = "mods/useful-luck.pw.toml"
-hash = "99dd9e2281d3f7dea494ff2bffd441b5d60a3a6e8b9eb44af2f32af30dbf56c6"
-metafile = true
-
-[[files]]
 file = "mods/via-romana.pw.toml"
 hash = "a65d08f1c89f4fe781cf20f0c7738b1de644e961910b35c6cb1601e35df1dd1b"
 metafile = true
