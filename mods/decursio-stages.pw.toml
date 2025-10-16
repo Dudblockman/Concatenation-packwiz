@@ -1,13 +1,13 @@
 name = "Decursio Stages"
-filename = "decursio_stages-1.20.1-0.1.0b.jar"
+filename = "decursio_stages-1.20.1-0.1.1b.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8aaa9c66523711fa7869f86c69ff0d0ac02392a8"
+hash = "f952562b258cc5bdfa8931d82cfb888f856e2fe2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6295175
+file-id = 7105808
 project-id = 1116604

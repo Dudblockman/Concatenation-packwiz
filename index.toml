@@ -3346,7 +3346,7 @@ metafile = true
 
 [[files]]
 file = "mods/caupona.pw.toml"
-hash = "8517132706f5a99edaf7705b6a4c2c934972dabcacca279f6d8abdef874d9949"
+hash = "35dcd8767dbf144bc5b0e0dd8e36128d171a0fb83676d0cff10a62fec48836fa"
 metafile = true
 
 [[files]]
@@ -3631,7 +3631,7 @@ metafile = true
 
 [[files]]
 file = "mods/decursio-stages.pw.toml"
-hash = "c238a792bd0d99811ee2e0d2bbca7859207eba2a392c35de7fe0b1de7a0dc5e8"
+hash = "efa22c769356c0d249d175f7a1f36617f5c16e48e437b415f856c82a50ee8c0a"
 metafile = true
 
 [[files]]
@@ -3641,7 +3641,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "d598259ef436826a090142afbb7dc39a97446b7f4c2a314a8659b47698853f8c"
+hash = "1bc1fd0cb2fda0b3950b11efbca3239a89b4184e3b5e0550dd7f1f94ca67cddc"
 metafile = true
 
 [[files]]
