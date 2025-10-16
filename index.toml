@@ -3029,11 +3029,6 @@ hash = "70d3ae93a9064f6885d57fc2adece2ea0f03dcc8f3077a08bb3aedf9c59630ce"
 metafile = true
 
 [[files]]
-file = "mods/better-chunk-loading-forge-fabric.pw.toml"
-hash = "7499dcfc1c246bf1ceb3b82992cc7478a9d8e29900f6c77c1c2a425665b4841d"
-metafile = true
-
-[[files]]
 file = "mods/better-fps-render-distance.pw.toml"
 hash = "0651f0e4c8067fbbc25f3efcd1d43278b44d240e4c8e375fb398eaf63e34f58d"
 metafile = true
