@@ -3879,7 +3879,7 @@ metafile = true
 
 [[files]]
 file = "mods/great-scrollable-tooltips.pw.toml"
-hash = "9e805a66b7c75bf77cbcfd75e4b14deb8f71217e1930261c3a8a0c53ae63d859"
+hash = "dfe425087493e3ffa6d5107aa9bd62f1f916d09f22fa835dd692d4669c368508"
 metafile = true
 
 [[files]]
@@ -4709,7 +4709,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality-reforged.pw.toml"
-hash = "7d26046aea03fcae4f1e5875d818543a5a401e2ae239cdfe3f18307309014290"
+hash = "7e742a3ff62a2ea928a1444bd84a22685f62d53f767966c6f52b3c1c9c2c8fba"
 metafile = true
 
 [[files]]

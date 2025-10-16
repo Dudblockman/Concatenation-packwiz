@@ -1,6 +1,6 @@
 name = "Great Scrollable Tooltips"
 filename = "great_scrollable_tooltips-15.5.0+forge.jar"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"
