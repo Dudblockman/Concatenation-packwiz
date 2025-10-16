@@ -4153,7 +4153,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "30475fa421dc8bff9a2a3ba56638a928a5f0d088dc41918dda7f583b76871f7c"
+hash = "35a8035ed3414a10f1fcb0ef868e250e98922461197045944890e5c344dbeeb2"
 metafile = true
 
 [[files]]
@@ -4361,7 +4361,7 @@ metafile = true
 
 [[files]]
 file = "mods/refurbished-furniture.pw.toml"
-hash = "92fa185e41c7ab6b023f3815309b8e433251080ac3350ffe70445de53890edc0"
+hash = "2bcee75d08b33dd6506b7cd3f67ea9d0d2c1bf14e26728fa8e12ef19c895b165"
 metafile = true
 
 [[files]]
@@ -4545,7 +4545,7 @@ metafile = true
 
 [[files]]
 file = "mods/summoner-scrolls.pw.toml"
-hash = "b1bd99d6cbd16e97a599c249520612a7a81a9dbe830bed7eb4f3f270046e471a"
+hash = "0611bc75be048751df9008bec4fbf70ab44a55c3efe954fa96c8935007f42578"
 metafile = true
 
 [[files]]
@@ -4699,7 +4699,7 @@ metafile = true
 
 [[files]]
 file = "mods/via-romana.pw.toml"
-hash = "6f1171658c5c5877c1e839d3d51103b9d671f03976559aa60f071efb0f9ddcad"
+hash = "a65d08f1c89f4fe781cf20f0c7738b1de644e961910b35c6cb1601e35df1dd1b"
 metafile = true
 
 [[files]]

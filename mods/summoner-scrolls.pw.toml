@@ -1,13 +1,13 @@
 name = "Summoner Scrolls"
-filename = "summonerscrollsforge-1.0.2.jar"
+filename = "summonerscrollsforge-1.0.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "6ab1f6e521e9fd94a0338e851142a62481feebc4"
+hash = "d22876ae57b7feab080a5350f8b1d3177658af60"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6376309
+file-id = 7104931
 project-id = 1225932
