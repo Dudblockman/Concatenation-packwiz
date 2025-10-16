@@ -1,6 +1,12 @@
 ServerEvents.tags('item', event => {
     const add = (tag, items) => items.forEach(item => event.add(tag, item));
 
+    event.remove('forge:gears/copper', 'hammerlib:gears')
+    event.remove('forge:gears/iron', 'hammerlib:gears')
+    event.remove('forge:gears/gold', 'hammerlib:gears')
+    event.remove('forge:gears/diamond', 'hammerlib:gears')
+    event.remove('forge:gears/netherite', 'hammerlib:gears')
+
     add('concatenation:tech_cards', [
         'tarotcards:the_hierophant',
         'tarotcards:the_hermit'
@@ -221,7 +227,29 @@ ServerEvents.tags('item', event => {
         'asr:gilded_iron_shield',
         'asr:gilded_netherquartz_shield',
         'asr:gilded_ender_shield',
-        'asr:gilded_diamond_shield'
+        'asr:gilded_diamond_shield',
+        'minecolonies:assistanthammer_gold',
+        'minecraft:netherite_shovel',
+        'minecraft:netherite_axe',
+        'minecraft:netherite_pickaxe',
+        'minecraft:netherite_hoe',
+        'minecraft:netherite_sword',
+        'minecraft:netherite_helmet',
+        'minecraft:netherite_chestplate',
+        'minecraft:netherite_leggings',
+        'minecraft:netherite_boots',
+        'irons_spellbooks:netherite_mage_helmet',
+        'irons_spellbooks:netherite_mage_chestplate',
+        'irons_spellbooks:netherite_mage_leggings',
+        'irons_spellbooks:netherite_mage_boots',
+        'create:netherite_diving_helmet',
+        'create:netherite_diving_boots',
+        'farmersdelight:netherite_knife',
+        'mekanismtools:netherite_paxel',
+        'ars_nouveau:sorcerer_boots',
+        'ars_nouveau:sorcerer_leggings',
+        'ars_nouveau:sorcerer_robes',
+        'ars_nouveau:sorcerer_hood'
     ]);
 
     const sublime = [
@@ -246,6 +274,12 @@ ServerEvents.tags('item', event => {
     ];
     add('curios:curio', fullSets);
     add('tarotcards:tarot_cards', fullSets);
+    add('curios:charm', [
+        'concatenationcore:rython',
+    ]);
+    add('curios:spellbook', [
+        'concatenationcore:karma_tome',
+    ]);
 
     add('curios:body', [
         'marbledsarsenal:black_plate_carrier_light',
@@ -363,4 +397,37 @@ ServerEvents.tags('item', event => {
         'industrialforegoing:plastic',
         'concatenationcore:pyrite'
     ])
+
+    add('concatenation:high_compasses', [
+        'minecraft:recovery_compass',
+        'irons_spellbooks:wayward_compass',
+        'ae2:meteorite_compass'
+    ])
+
+    add('concatenation:scrolls', [
+        'concatenationcore:occult_calling',
+        'elementalcraft:scroll',
+        'irons_spellbooks:scroll'
+    ])
+
+    add('concatenation:dis_catalyst', [
+        'minecraft:ghast_tear',
+        'ae2:charged_certus_quartz_crystal',
+        'minecraft:heart_of_the_sea'
+    ])
+
+    add('concatenation:oreberry_bushes', [
+        'oreberriesreplanted:tin_oreberry_bush',
+        'oreberriesreplanted:aluminum_oreberry_bush',
+        'oreberriesreplanted:nickel_oreberry_bush',
+        'oreberriesreplanted:lead_oreberry_bush',
+        'oreberriesreplanted:uranium_oreberry_bush',
+        'oreberriesreplanted:osmium_oreberry_bush',
+        'oreberriesreplanted:zinc_oreberry_bush',
+        'oreberriesreplanted:silver_oreberry_bush',
+        'oreberriesreplanted:copper_oreberry_bush',
+        'oreberriesreplanted:gold_oreberry_bush',
+        'oreberriesreplanted:iron_oreberry_bush',
+        'oreberriesreplanted:essence_berry_bush'
+    ]);
 });

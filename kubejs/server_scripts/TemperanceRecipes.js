@@ -15,7 +15,12 @@ ServerEvents.recipes(event => {
                 'reliquary:witherless_rose',
                 'enderstorage:ender_pouch',
                 'bloodmagic:sacrificialdagger',
-                'reliquary:alkahestry_altar'
+                'reliquary:alkahestry_altar',
+                'theurgy:amethyst_divination_rod',
+                'theurgy:divination_rod_t1',
+                'theurgy:divination_rod_t2',
+                'theurgy:divination_rod_t3',
+                'theurgy:divination_rod_t4'
         ]
 
         remove.forEach(item => {
@@ -30,7 +35,7 @@ ServerEvents.recipes(event => {
         event.replaceInput(
                 { mod: 'botanypots' },
                 'minecraft:flower_pot',
-                'hexerei:herb_jar'
+                'concatenationcore:botanic_jar'
         )
 
         event.shaped(
@@ -172,12 +177,19 @@ ServerEvents.recipes(event => {
                         A: 'hexerei:cloth'
                 }
         )
-        event.shapeless(
+        event.shaped(
                 Item.of('concatenationcore:light_totem'),
                 [
-                        'born_in_chaos_v1:fire_dust',
-                        'concatenationcore:descran'
-                ]
+                        'ABA',
+                        'CDC',
+                        'ABA'
+                ],
+                {
+                        A: 'minecraft:gunpowder',
+                        D: 'concatenationcore:descran',
+                        C: 'minecraft:redstone',
+                        B: 'born_in_chaos_v1:fire_dust'
+                }
         )
         // event.shaped(
         //         Item.of('dimdoors:rift_remover'),
@@ -394,7 +406,7 @@ ServerEvents.recipes(event => {
                 }
         )
         event.shaped(
-                Item.of('minecraft:glowstone_dust', 27),
+                Item.of('minecraft:glowstone_dust', 81),
                 [
                         'ABA',
                         'A A',
@@ -456,6 +468,193 @@ ServerEvents.recipes(event => {
                         D: 'minecraft:redstone_lamp'
                 }
         )
+        event.shaped(
+                Item.of('minecraft:enchanted_book').enchant('veinmining:vein_mining', 1),
+                [
+                        'AB ',
+                        'CDC',
+                        ' B '
+                ],
+                {
+                        A: 'tarotcards:temperance',
+                        C: 'concatenationcore:pyrite',
+                        D: 'minecraft:enchanted_book',
+                        B: 'concatenationcore:blood_soaked_fabric'
+                }
+        ).keepIngredient('tarotcards:temperance')
+        event.shaped(
+                Item.of('minecraft:enchanted_book').enchant('veinmining:vein_mining', 3),
+                [
+                        ' A ',
+                        'BCB',
+                        ' A '
+                ],
+                {
+                        C: 'minecraft:enchanted_book',
+                        B: 'concatenationcore:blood_powder',
+                        A: 'tconstruct:manyullyn_ingot'
+                }
+        )
+        event.shaped(
+                Item.of('concatenationcore:botanic_jar'),
+                [
+                        ' A ',
+                        'BCB',
+                        'BBB'
+                ],
+                {
+                        A: 'concatenationcore:pyrite',
+                        B: 'minecraft:brick',
+                        C: 'hexerei:herb_jar'
+                }
+        )
+        event.shapeless(
+                Item.of('summonerscrolls:shulkerman_summoner_scroll'),
+                [
+                        'summonerscrolls:enderman_summoner_scroll',
+                        'summonerscrolls:enhancement_scroll'
+                ]
+        )
+        event.shapeless(
+                Item.of('summonerscrolls:charged_creeper_summoner_scroll'),
+                [
+                        'summonerscrolls:creeper_summoner_scroll',
+                        'summonerscrolls:enhancement_scroll'
+                ]
+        )
+        event.shapeless(
+                Item.of('summonerscrolls:shulkerman_summoner_scroll'),
+                [
+                        'summonerscrolls:enderman_summoner_scroll',
+                        'summonerscrolls:enhancement_scroll'
+                ]
+        )
+        event.shapeless(
+                Item.of('summonerscrolls:iron_golem_summoner_scroll', 2),
+                [
+                        'summonerscrolls:iron_golem_summoner_scroll',
+                        'summonerscrolls:enhancement_scroll'
+                ]
+        )
+        event.shapeless(
+                Item.of('summonerscrolls:piglin_brute_summoner_scroll'),
+                [
+                        'summonerscrolls:piglin_summoner_scroll',
+                        'summonerscrolls:enhancement_scroll'
+                ]
+        )
+        event.shapeless(
+                Item.of('summonerscrolls:cave_spider_summoner_scroll'),
+                [
+                        'summonerscrolls:spider_summoner_scroll',
+                        'summonerscrolls:enhancement_scroll'
+                ]
+        )
+        event.shapeless(
+                Item.of('summonerscrolls:spider_jockey_summoner_scroll'),
+                [
+                        'summonerscrolls:spider_summoner_scroll',
+                        'summonerscrolls:skeleton_summoner_scroll',
+                        'summonerscrolls:enhancement_scroll'
+                ]
+        )
+        event.shapeless(
+                Item.of('summonerscrolls:stray_summoner_scroll'),
+                [
+                        'summonerscrolls:skeleton_summoner_scroll',
+                        'summonerscrolls:enhancement_scroll'
+                ]
+        )
+        event.shapeless(
+                Item.of('summonerscrolls:husk_summoner_scroll'),
+                [
+                        'summonerscrolls:zombie_summoner_scroll',
+                        'summonerscrolls:enhancement_scroll'
+                ]
+        )
+        event.shaped(
+                Item.of('theurgy:divination_rod_t1'),
+                [
+                        ' AB',
+                        ' CA',
+                        'C  '
+                ],
+                {
+                        A: 'minecraft:glass',
+                        B: 'concatenationcore:antimony',
+                        C: 'minecraft:stick'
+                }
+        )
+        event.shaped(
+                Item.of('theurgy:divination_rod_t2'),
+                [
+                        ' AB',
+                        ' CA',
+                        'D  '
+                ],
+                {
+                        B: 'concatenationcore:antimony',
+                        C: 'minecraft:amethyst_shard',
+                        A: 'minecraft:gold_nugget',
+                        D: 'minecraft:stick'
+                }
+        )
+        event.shaped(
+                Item.of('theurgy:divination_rod_t3'),
+                [
+                        ' AB',
+                        ' CA',
+                        'D  '
+                ],
+                {
+                        A: 'minecraft:quartz',
+                        B: 'concatenationcore:antimony',
+                        C: 'minecraft:diamond',
+                        D: 'minecraft:stick'
+                }
+        )
+        event.shaped(
+                Item.of('theurgy:divination_rod_t4'),
+                [
+                        ' AB',
+                        ' CA',
+                        'D  '
+                ],
+                {
+                        B: 'concatenationcore:antimony',
+                        C: 'minecraft:netherite_ingot',
+                        A: 'minecraft:blaze_rod',
+                        D: 'minecraft:stick'
+                }
+        )
+        event.shaped(
+                Item.of('theurgy:amethyst_divination_rod'),
+                [
+                        ' AB',
+                        ' CA',
+                        'C  '
+                ],
+                {
+                        A: 'minecraft:purple_dye',
+                        B: 'concatenationcore:antimony',
+                        C: 'minecraft:stick'
+                }
+        )
+        event.shaped(
+                Item.of('tarotcards:temperance'),
+                [
+                        'ABA',
+                        'CDC',
+                        'AEA'
+                ],
+                {
+                        B: 'perdition:marmor_exaltatus',
+                        C: 'concatenationcore:experience_orb',
+                        D: 'tarotcards:the_hierophant',
+                        A: 'concatenationcore:silver_paper',
+                        E: 'reliquary:nebulous_heart'
+                }
+        ).keepIngredient('tarotcards:the_hierophant')
 
         // Botany Pots
         event.recipes.botanypots.crop(

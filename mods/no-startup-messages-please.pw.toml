@@ -1,0 +1,13 @@
+name = "No Startup Messages Please"
+filename = "nostartupmessages-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f3c5a3cc7fa289b86213285ea9a8485a9d51d788"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4824101
+project-id = 928593
