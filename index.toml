@@ -4614,9 +4614,8 @@ hash = "5d49171fb508dead4eae7a7fe840bfc993520b5cd8c1adef7af791b3bf0e0243"
 metafile = true
 
 [[files]]
-file = "mods/tickaccelerate.pw.toml"
-hash = "321cd8fbdced5c95dcfd3073bddf3cf87e24c93380fa9c9af6f52e3d4bc9b229"
-metafile = true
+file = "mods/tickaccelerate-1.20.1-forge-0.8.0.jar"
+hash = "1568308003716f068731a7ca6bd2e8423654921a4956f8502492abc8f442f1df"
 
 [[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
@@ -4667,10 +4666,6 @@ metafile = true
 file = "mods/true-ending.pw.toml"
 hash = "171f4c4e48ec408e9bcc6f60751da7a549d04f8e0df2d9375b48ee84fe3387ef"
 metafile = true
-
-[[files]]
-file = "mods/tt20forged-0.8.2-forge-1.20.x.jar"
-hash = "427500c4322698949a3dfa8cbc3ec4bab0a5a99fc15ba36dcc2a13d50822c080"
 
 [[files]]
 file = "mods/txnilib.pw.toml"
