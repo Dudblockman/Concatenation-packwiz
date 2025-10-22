@@ -898,7 +898,7 @@ hash = "060e296a5fddce603e50034e3cdb6059c3a0e122d0aae3d85a0523341c82ea22"
 
 [[files]]
 file = "config/consecration-server.toml"
-hash = "b1783031cbbf2f1fddc6fb0fc397177e6643ecc9151c75c458d1fa18ce5d0785"
+hash = "eead07de3d95a7a233e876ccc116694b1ffc6410599e4b66e79d251fdbb1de12"
 
 [[files]]
 file = "config/constructionwand-client.toml"
