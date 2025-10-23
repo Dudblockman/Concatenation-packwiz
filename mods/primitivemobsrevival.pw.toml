@@ -1,0 +1,13 @@
+name = "PrimitiveMobsRevival"
+filename = "PrimitiveMobsRevival-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yJS8SFaz/versions/ekLSy8LT/PrimitiveMobsRevival-1.0.0.jar"
+hash-format = "sha512"
+hash = "f0db9b2b000bf0ef65a626e0f252901da60dedf5f4b9b38691599f157427727f0c6e382933df9f940a7af5260d6ceb9c6cbc1115c4ce2854b07b8269d83dfac6"
+
+[update]
+[update.modrinth]
+mod-id = "yJS8SFaz"
+version = "ekLSy8LT"

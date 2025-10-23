@@ -4321,6 +4321,11 @@ hash = "2d47877684bd91ad4c597b68bae4a8af3964011bfc0fd52e004469368f23b834"
 metafile = true
 
 [[files]]
+file = "mods/primitivemobsrevival.pw.toml"
+hash = "56425508da8c4942dd9bce4eaace26e82751e68cacf63dc95f720447bf1aaae4"
+metafile = true
+
+[[files]]
 file = "mods/projecte-integration.pw.toml"
 hash = "f6e2782e6a24fd63bde5ea41924c414bbf8b345cbe9451c7cd9cc0292b22873c"
 metafile = true
