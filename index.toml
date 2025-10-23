@@ -3274,7 +3274,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "39af8cda25dc99b1dc72d0d0265e16f934e12d1eb7e2a3a2035175aa1535b53f"
+hash = "c82ee76adbc33e07a233dc7da28f6fc66a06ba89fe77fe77fbd02449c02e8d02"
 metafile = true
 
 [[files]]
@@ -3454,12 +3454,12 @@ metafile = true
 
 [[files]]
 file = "mods/cold-sweat.pw.toml"
-hash = "517f41acc4b15d4858a45eca7fb803aa520ef2b36ed79d47d4cce87b1a1f05ec"
+hash = "04e4aaa1f9fdd9a9f6cc3b2db3d402050894842ab6b53a2538d39d4223779808"
 metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "45ab70f62e195c1acf1dbdc994a559d0a5ddbc80528301ddb5b0c2b2a45f667f"
+hash = "ea80abc71396913b1924727dd1b1b8fae446197026880af42e8e1270f963521e"
 metafile = true
 
 [[files]]
@@ -3469,7 +3469,7 @@ metafile = true
 
 [[files]]
 file = "mods/common-capabilities.pw.toml"
-hash = "fe824b148a1ca504c53d9f62f5d3bfcfa01bed088309e0f843b4cd2eca707d05"
+hash = "78d1839a2bf47b7a4882216262dd96e87ee6434952bec760ebfe588e3b9aeef9"
 metafile = true
 
 [[files]]
@@ -3654,7 +3654,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclops-core.pw.toml"
-hash = "47e99ba51ab53b80a86eb3a2a660414784ed31c7cb1f386a74e457c8f1fe0637"
+hash = "82e250fb7642f7289fe535c15ee883c4f392ddbd6908e0e55bf5cb0cbd186e01"
 metafile = true
 
 [[files]]
@@ -3917,7 +3917,7 @@ metafile = true
 
 [[files]]
 file = "mods/guideme.pw.toml"
-hash = "8c635c96e2449280329a0d3daaa279886a7e667aaabf122d344d47f72b065546"
+hash = "5cc92eb0e58c2afbfd625d727d80da1d1c84500ec962bb22f5be28b864f18551"
 metafile = true
 
 [[files]]
@@ -3971,7 +3971,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-crafting.pw.toml"
-hash = "24dde6c031f2508ba8a04ae91667f513e5ef1943a68d9a52a1f1bb0b8fd2518a"
+hash = "d7639c245742830400bb98cc2171e4d2e35826aa8b423add5b8fa64cc5c12064"
 metafile = true
 
 [[files]]
@@ -3986,7 +3986,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-terminals.pw.toml"
-hash = "4cb9c9736346b287ecd82714776e6ff22b121af2235519992bca5adb6f8d0a42"
+hash = "f51e659991d4af747b6aecf6846c793a1095add59c81488af862914f54d7792c"
 metafile = true
 
 [[files]]
@@ -4171,17 +4171,17 @@ metafile = true
 
 [[files]]
 file = "mods/minecolonies-compatibility.pw.toml"
-hash = "158e311e4921e1d336c9440ecedebb116a99e254609edd2583b32658b525138a"
+hash = "2b1274bfa1070aa78ae4d36bddd7fa349dfa946cca412d1944ea6f15b2131edf"
 metafile = true
 
 [[files]]
 file = "mods/minecolonies-tweaks.pw.toml"
-hash = "c6b495399833d7e2a2828c1e63e3a3dfe0f0ea4ab7d33666d8a23b98c1ac21af"
+hash = "5f8ccf14851f374384431f3149bc619d64cdf0025cf10357bd93ae71cb2768ff"
 metafile = true
 
 [[files]]
 file = "mods/minecolonies.pw.toml"
-hash = "35a8035ed3414a10f1fcb0ef868e250e98922461197045944890e5c344dbeeb2"
+hash = "5331d60a8ec8f3def16c9e51b01579d321524064788264b023032b64ce1ab195"
 metafile = true
 
 [[files]]
@@ -4399,7 +4399,7 @@ metafile = true
 
 [[files]]
 file = "mods/reliquary-reincarnations.pw.toml"
-hash = "2267e18deda0442f3f6a337cd023cf3ea84b684c430e70bd6486a0aa56f168b0"
+hash = "704b3c27ac7197646568ba64ba1f8bdd24b6739c52c7029b77b40683c10528fd"
 metafile = true
 
 [[files]]
@@ -4469,7 +4469,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "5b9d328d029c1f59bd7205a1f523f723e08ea094d6f2ea6a8fb476f78332d555"
+hash = "37eddc9a6e46af2cea7bbc5751aa5c87cde50b4e9fe7b46d9a4da90660245e58"
 metafile = true
 
 [[files]]
@@ -4508,7 +4508,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "1b582b49488bc745250540dd9fabfcecc0844025262e971b3dc1ceb3777c41db"
+hash = "f54290f9065d5f0b35215d24ea86ebfc7e4c7ce773ca6a305ec39436cef8279b"
 metafile = true
 
 [[files]]
@@ -4543,7 +4543,7 @@ metafile = true
 
 [[files]]
 file = "mods/spice-of-life-valheim-reforged.pw.toml"
-hash = "801d4b4a7e9edfbaa4c9c5dae6189b8113daddf002555aff0de7cffbbaff277b"
+hash = "7bdfbc70de1e9b0b1cada633ca18334999835d66f0f9e57c5800100be1d081fb"
 metafile = true
 
 [[files]]
@@ -4558,7 +4558,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
-hash = "99d6a9dd4575cea13291abd7f07ce8db5015de2bcf3f53889a9432375e47f3ac"
+hash = "4b2933a18390fe4fc0efef26556413372a96a0f5ed639c713643ed8e49649c58"
 metafile = true
 
 [[files]]
@@ -4588,7 +4588,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "7ff5441d2e7ef66d8c5b3b518266189eca0de0b7f3f5e37cdeab9a7c2147beed"
+hash = "31883f2697767614c5b0671e9600c4e584c8e60be8062867667ddfc9d2624e23"
 metafile = true
 
 [[files]]
