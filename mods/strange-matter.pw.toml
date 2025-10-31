@@ -1,0 +1,13 @@
+name = "Strange Matter"
+filename = "strangematter-1.20.1-0.2.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "14d73ec9f27ec30886fce221b919c8ec2adef05a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7161435
+project-id = 1344073

@@ -1,13 +1,13 @@
 name = "Applied Energistics 2 Wireless Terminals"
-filename = "ae2wtlib-15.2.3-forge.jar"
+filename = "ae2wtlib-15.3.1-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9a35bc25ba2daade63db76ff4012eb68b0392b08"
+hash = "2df257a66c16c30f4fcae2de0d6b387251b7f114"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5217955
+file-id = 7154316
 project-id = 459929
