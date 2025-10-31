@@ -1,0 +1,13 @@
+name = "Hierophantics"
+filename = "hierophantics-forge-1.3.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ybwf7iLN/versions/m73lvqjv/hierophantics-forge-1.3.3.jar"
+hash-format = "sha512"
+hash = "5e5073093810aa12b2385e1372bb2936d672592ed8061a2f2de4fa843cac13bbeef7e978c47dd497c5ab4af69c663ea5a052b5280ba31c4b6c65d5ad11b1eafb"
+
+[update]
+[update.modrinth]
+mod-id = "ybwf7iLN"
+version = "m73lvqjv"
