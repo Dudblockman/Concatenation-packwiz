@@ -4490,7 +4490,7 @@ hash = "26df36d27e8bb240206952332da28e827ffccadc804a018add9fe7985a379039"
 
 [[files]]
 file = "kubejs/server_scripts/HermitRecipes.js"
-hash = "2ebb97d7cc4b1c0f251845433c596719811b66ca1209cfb21917725604e2596c"
+hash = "479e09e0a05e767f860cc04cb7236bf978652ed7a0e017587bd66fae362611cb"
 
 [[files]]
 file = "kubejs/server_scripts/HierophantRecipes.js"
