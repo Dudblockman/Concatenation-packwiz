@@ -5057,6 +5057,11 @@ hash = "d2262868a9dbaef9e161d01e66200bc7559a2251a77f6d9d2688703da4a36ea8"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "7c1ac01f8026fac8630fa7762a4325bfda54578d7904890904308b921d33ebd8"
+metafile = true
+
+[[files]]
 file = "mods/decursio-stages.pw.toml"
 hash = "efa22c769356c0d249d175f7a1f36617f5c16e48e437b415f856c82a50ee8c0a"
 metafile = true
