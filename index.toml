@@ -4545,6 +4545,10 @@ file = "kubejs/server_scripts/mobs.js"
 hash = "40e20fc8c31cf3f6c494c8938447c275a8132efcfe053887f640a341637eb356"
 
 [[files]]
+file = "kubejs/server_scripts/sol_foods.js"
+hash = "d608067380aaa3dc6851c41cd3a3ae4888b3f9d99b1c5ab38a59a42fd3e4509c"
+
+[[files]]
 file = "kubejs/server_scripts/tags.js"
 hash = "bd4c47d43e8edf7b0bae8b7d507d892fea25a1b4f93c42e4fe8e2138cf65758f"
 
