@@ -4847,7 +4847,7 @@ metafile = true
 
 [[files]]
 file = "mods/cold-sweat.pw.toml"
-hash = "04e4aaa1f9fdd9a9f6cc3b2db3d402050894842ab6b53a2538d39d4223779808"
+hash = "4ebd8402e4a6c3b6ad5f8f784e3ef145b280020c6afd0e86952e5c97e5b65094"
 metafile = true
 
 [[files]]
@@ -6175,7 +6175,7 @@ metafile = true
 
 [[files]]
 file = "mods/via-romana.pw.toml"
-hash = "a65d08f1c89f4fe781cf20f0c7738b1de644e961910b35c6cb1601e35df1dd1b"
+hash = "be8bd993ae4ef63b580cef049925d962df3e378103b4f7d7c0c6d063dadf2a87"
 metafile = true
 
 [[files]]
