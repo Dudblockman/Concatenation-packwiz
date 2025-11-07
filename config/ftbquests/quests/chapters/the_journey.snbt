@@ -4,7 +4,16 @@
 	default_quest_shape: ""
 	filename: "the_journey"
 	group: ""
-	icon: "tarotcards:tarot_deck"
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			Parent: {
+				Items: [ ]
+				Size: 22
+			}
+		}
+		id: "tarotcards:tarot_deck"
+	}
 	id: "7C44AFC336C0AE69"
 	images: [{
 		height: 60.0d
@@ -28805,6 +28814,143 @@
 				type: "item"
 			}]
 			x: 43.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["55895AB2924ABAFC"]
+			icon: "hexcasting:staff/oak"
+			id: "50046CF5BC7997BB"
+			rewards: [
+				{
+					count: 5
+					id: "0C0F4A05DAC2884E"
+					item: "hexcasting:charged_amethyst"
+					type: "item"
+				}
+				{
+					id: "03E9A19E5C4C4F0F"
+					item: {
+						Count: 1
+						id: "patchouli:guide_book"
+						tag: {
+							"patchouli:book": "hexcasting:thehexbook"
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4E5A4C4E798224B7"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "hexcasting:staves"
+					}
+				}
+				type: "item"
+			}]
+			title: "Hex Casting"
+			x: 42.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["6AD3267007AD2412"]
+			id: "3E25773E0D0F4F42"
+			rewards: [{
+				count: 16
+				id: "66119C935C1F3796"
+				item: "hexcasting:slate"
+				type: "item"
+			}]
+			tasks: [{
+				id: "339FA360A15C44F7"
+				item: "hexcasting:impetus/empty"
+				type: "item"
+			}]
+			x: 47.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["3E25773E0D0F4F42"]
+			id: "18B82EA8699E3AA6"
+			rewards: [
+				{
+					id: "1A08EB1BEB4FCD6E"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					count: 4
+					id: "213B8DEC4E387274"
+					item: "minecraft:budding_amethyst"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3F27F6B155B89BE8"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "hexcasting:brainswept_circle_components"
+					}
+				}
+				type: "item"
+			}]
+			x: 47.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["50046CF5BC7997BB"]
+			id: "08EA15338A691FA8"
+			rewards: [{
+				count: 64
+				id: "7AAAD28D48F2E5AB"
+				item: "hexcasting:amethyst_dust"
+				type: "item"
+			}]
+			tasks: [{
+				advancement: "hexcasting:y_u_no_cast_angy"
+				criterion: ""
+				id: "57F79F7C8238067D"
+				type: "advancement"
+			}]
+			x: 44.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["08EA15338A691FA8"]
+			id: "215DDD47EBD5FC4E"
+			rewards: [{
+				id: "29C61B3C9D9624DF"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				advancement: "hexcasting:opened_eyes"
+				criterion: ""
+				id: "0BFD993321D9E655"
+				type: "advancement"
+			}]
+			x: 45.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["215DDD47EBD5FC4E"]
+			id: "6AD3267007AD2412"
+			rewards: [{
+				id: "5CDA9CC07CC88133"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				advancement: "hexcasting:enlightenment"
+				criterion: ""
+				id: "5A923DB00293C63E"
+				type: "advancement"
+			}]
+			x: 47.0d
 			y: 6.0d
 		}
 	]

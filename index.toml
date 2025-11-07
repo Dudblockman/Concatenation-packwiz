@@ -1538,7 +1538,7 @@ hash = "ea91fde83b1bbb1422f86860625ea224ef7233695313b0f8eda0d19724343945"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_journey.snbt"
-hash = "cb5e4a799fa945d97b97ba29390196ee859bb84ec2bac8841e73be498361ffad"
+hash = "813ffdc1ed14d925412a4c85e323edefaac5cfb4e197e3b42e61eef592f8a606"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -4523,6 +4523,10 @@ hash = "4783ab3d48369048637b20dcd2f72eaa77990af65efacc135b31bf333b98b374"
 [[files]]
 file = "kubejs/server_scripts/WorldDevourer.js"
 hash = "41340c48d6f00a52fd45d5370dcb63fdd38be52ff0ec89157676f52b0f8034e8"
+
+[[files]]
+file = "kubejs/server_scripts/hex_recipes.js"
+hash = "b9b54460ebe598cb6b18390f15876d0c7d9851dd15be6bfa0633445f933d30f4"
 
 [[files]]
 file = "kubejs/server_scripts/id_offset_proxy.js"
