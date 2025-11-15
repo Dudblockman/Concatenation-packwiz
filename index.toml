@@ -5205,9 +5205,8 @@ hash = "cf53ff3d2ea7e7aed6a8045414b2c9b80405ce1e26d1c2d43bd75a9ddaf715c9"
 metafile = true
 
 [[files]]
-file = "mods/enchanter-fix.pw.toml"
-hash = "0dd241209e898877d8ec397f0dd0fd70a5c2da9dcdb042259c31cd8f726ad717"
-metafile = true
+file = "mods/enchanter_fix-1.6+mc1.20-1.21.8.jar"
+hash = "f21c579db8adcd8e4a2496aff10a1571afdd0fa4effb846a6f63a9d9233c3145"
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
