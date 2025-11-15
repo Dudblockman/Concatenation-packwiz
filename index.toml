@@ -4029,6 +4029,10 @@ file = "kubejs/data/foolsendeavour/loot_tables/chests/world_devourer_container.j
 hash = "6f86945161626460fe5be896e58641f95b155faf223682aafbb5304f3f32afc7"
 
 [[files]]
+file = "kubejs/data/hexcasting/loot_tables/grant_patchi_book.json"
+hash = "2433542117b811dd8cd477e1d059af8512bd9d391b9f36bb022eff25ef9a1ab1"
+
+[[files]]
 file = "kubejs/data/hexerei/recipes/coffer_from_mixing_cauldron.json"
 hash = "df8afa4c4abfff1a1e917bd4b26c4270e1614326b64de3a84d572f018c2d41be"
 
