@@ -6146,7 +6146,7 @@ metafile = true
 
 [[files]]
 file = "mods/structurize.pw.toml"
-hash = "d5ef275cb8ac655ed58f8eb0ee020adbc13195611c51a66656d825eb60c09076"
+hash = "336d152d9bb2a8ba4e04e27678361bdb7cdcd98721b16772fd2334f6144ae6e1"
 metafile = true
 
 [[files]]
