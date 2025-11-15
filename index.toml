@@ -1546,7 +1546,7 @@ hash = "ea91fde83b1bbb1422f86860625ea224ef7233695313b0f8eda0d19724343945"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_journey.snbt"
-hash = "4bd17114e0028e1d097a1e23e6cd94a2801c864f82bdbba54f8d2f2d79ccf1d6"
+hash = "b81d3302083770903d756887d770f466283d53c3a59f81dcd99c0c1d7c5592fe"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -2691,6 +2691,10 @@ hash = "b6f281fe4a4e851f10cd3acb292da9f626ddf08ff6058fe039cc5297120eca29"
 [[files]]
 file = "emi.json"
 hash = "606b46e2753bbffdf67f1494147e0599421570059ea5b4ed0afacdcb3a4f5d7e"
+
+[[files]]
+file = "fabric.toml"
+hash = "d0b90513bb6994fe2c3fb17dbb7340f5084baffaf315e2be052a30b078da8547"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -4533,6 +4537,10 @@ file = "kubejs/server_scripts/block_tags.js"
 hash = "a1a400c6a0c3db760a375e40d900c48fc6618ae93ace555a1efef818ac97d557"
 
 [[files]]
+file = "kubejs/server_scripts/hex_recipes.js"
+hash = "b9b54460ebe598cb6b18390f15876d0c7d9851dd15be6bfa0633445f933d30f4"
+
+[[files]]
 file = "kubejs/server_scripts/id_offset_proxy.js"
 hash = "158a0b850fb7eda33332b35fc7a2049b64025aa6163f6cad38e7d49a0a3fc210"
 
@@ -4757,6 +4765,11 @@ hash = "da069e723737ae49203f7572eb774be0fd21f5f083ce7a7ee1bed25916befca8"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "ba1bdad41e3c9ec131330f048fc6f9bcb753ca3e9bfa1e41d60d6ca11afbc2e6"
 metafile = true
@@ -4879,6 +4892,16 @@ metafile = true
 [[files]]
 file = "mods/connectivity.pw.toml"
 hash = "c4624bc1de86bbe9739fc2e9d4a580dd52c1b7e1ac23dee8c01344307cc2cb57"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "d8480ee1f6ae58fa389e502108bcde4936ca326d6dc2f1608b9af9ac141cb35a"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
 metafile = true
 
 [[files]]
@@ -5202,6 +5225,10 @@ hash = "de33a63b6e7182dc3229d77c95c118cdc2ad64321ae4fc16d16a23a3b34e746b"
 metafile = true
 
 [[files]]
+file = "mods/ephemera-fabric-1.20.1-0.3.0.jar"
+hash = "1d385e8fa6bf1d33fd76b89cddab3f51545261bac924092b58193324b2a82671"
+
+[[files]]
 file = "mods/etched.pw.toml"
 hash = "c9f73e2b93b64fb0c44fbbde6245a5d5934143d6c4b9cc9829e3ba62c02ead4e"
 metafile = true
@@ -5224,6 +5251,11 @@ metafile = true
 [[files]]
 file = "mods/extreme-sound-muffler.pw.toml"
 hash = "f516cd414020a90cc732d3fb9b69d375c8f21b8e0acb95fb620420ab3dc7287d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
 metafile = true
 
 [[files]]
@@ -5370,8 +5402,72 @@ hash = "1a6b03437d3f80ac96348dc8e5f1077f3271f594a8a560c43375117fd8f176c1"
 metafile = true
 
 [[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "59a167a2e05a518d25d1e6f1b4789bad66a47e7fa2909817c5ec433c7aa46661"
+metafile = true
+
+[[files]]
+file = "mods/hexal.pw.toml"
+hash = "05f0aaf63c00487b7e7744c940dc5e4aacdf5843fe6368c3ac22ab07b52f3124"
+metafile = true
+
+[[files]]
+file = "mods/hexcassettes.pw.toml"
+hash = "39e27b12d6b188df2b249bf84ed8427c62a7d9c9802ab0469304d554f89f43be"
+metafile = true
+
+[[files]]
+file = "mods/hexcasting.pw.toml"
+hash = "ded41a5d1d88d386654ea5d55452ecf1aa95c136842894930009f6e2b67d5181"
+metafile = true
+
+[[files]]
+file = "mods/hexconnect.pw.toml"
+hash = "86c037a151dbe47bf8c37048778d1f34b53239c0d5b48652e117a95ab6d16a50"
+metafile = true
+
+[[files]]
+file = "mods/hexdebug.pw.toml"
+hash = "4c86523a9d9ab67fd3f5052dc09df57719990c4949a991d16e0a8338e66d7a4e"
+metafile = true
+
+[[files]]
 file = "mods/hexerei-0.4.2.3.jar"
 hash = "419db9f15af0ac694dc53a9cc99fa97c3a0ef787ae3d43d9aff87d2030e3f556"
+
+[[files]]
+file = "mods/hexflow.pw.toml"
+hash = "62561d68f9d88a6784f861437c3217486735294631492312b4dbc3f509753258"
+metafile = true
+
+[[files]]
+file = "mods/hexical-2.0.0.jar.disabled"
+hash = "df5d9219ebab095ef9efadae9cd38db3293352c1eee43c7f97b387f13917c822"
+
+[[files]]
+file = "mods/hexical.pw.toml"
+hash = "353bc9603d4bfa25ce7e2e15a1a8cf34f6ab18695cdafd8c4e0d351e841ac157"
+metafile = true
+
+[[files]]
+file = "mods/hexportation.pw.toml"
+hash = "b5ed3b3b787b8cda46501f21bf1b7a1366a81a1ca64f87892e909eff19c15a56"
+metafile = true
+
+[[files]]
+file = "mods/hexpose.pw.toml"
+hash = "a3679744d85237d364e432d07acc54775ef0ab10c80c542c5d5fb5d683dc43d6"
+metafile = true
+
+[[files]]
+file = "mods/hextweaks.pw.toml"
+hash = "3920e14488c4d2c89fbb32354cba5eb0feb457ef38815af9f2c22acef4f143bd"
+metafile = true
+
+[[files]]
+file = "mods/hierophantics.pw.toml"
+hash = "d8abb725392e66389acd8c9750a942225d3972b6f4e0b2edd048d94b8a7009fa"
+metafile = true
 
 [[files]]
 file = "mods/hypertubes.pw.toml"
@@ -5414,6 +5510,11 @@ hash = "762fded46cec5b2f224483c9fac2248184d8b88144556021be75a7f3c05c2da8"
 metafile = true
 
 [[files]]
+file = "mods/inline.pw.toml"
+hash = "d92834912371593543ac5c2de473e438fcf831e6e7641634c5e95918b73c211a"
+metafile = true
+
+[[files]]
 file = "mods/integrated-crafting.pw.toml"
 hash = "d7639c245742830400bb98cc2171e4d2e35826aa8b423add5b8fa64cc5c12064"
 metafile = true
@@ -5436,6 +5537,11 @@ metafile = true
 [[files]]
 file = "mods/integrated-tunnels.pw.toml"
 hash = "f94aaaa77a213f7b979a3d5a42940de1cc4fcd6af0cb80917b5995df0c0471b6"
+metafile = true
+
+[[files]]
+file = "mods/ioticblocks.pw.toml"
+hash = "ca296d00df4026173538d1507b86e089a1f2ab0cc555b90b3fb0cec794bb12d3"
 metafile = true
 
 [[files]]
@@ -5674,6 +5780,11 @@ hash = "81da708e6a9add4237562e15bd2be857cfa3908c50951408ab2137ff1c68fbbd"
 metafile = true
 
 [[files]]
+file = "mods/moreiotas.pw.toml"
+hash = "ca8acf37c54ea6cb9241fc4aa1b9465d25a6dde291e9919d72c50da2f8793498"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "e72f73611904e14d915418f0e3c6cb483cdc600e211375c2eceb393fec5b80f1"
 metafile = true
@@ -5769,6 +5880,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "dec2bc011d4ca1d451aaa3eea477f13366bfb13beba0716018f47d9331a50d8e"
+metafile = true
+
+[[files]]
+file = "mods/paucal.pw.toml"
+hash = "d545e2d90446465d26dfef1c6777edde1fa9d2b873674834dd761342a40088bf"
 metafile = true
 
 [[files]]
@@ -6171,6 +6287,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-compass.pw.toml"
 hash = "2d931f808e9e41a817016f96a13aa99dbed6f41ecc984140f1d01739b2e37101"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
 
 [[files]]
