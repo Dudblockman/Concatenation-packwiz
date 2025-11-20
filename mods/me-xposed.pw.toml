@@ -1,0 +1,13 @@
+name = "ME: Xposed"
+filename = "mexposed-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "871519b9c02000ef36ed028a81929bc08a6ce3b4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7218641
+project-id = 1376593
