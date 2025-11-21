@@ -1,0 +1,13 @@
+name = "Spelled"
+filename = "Spelled-1.20.1-0.6.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "692648057e2df7c03a579123637d4c50fc9c055f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4882410
+project-id = 430960
