@@ -217,6 +217,10 @@ file = "config/aiimprovements-common.toml"
 hash = "08a9f7c6f63bd35d49b15fa5bccd8cdf667f21af0c9a8cb2ab5998eb598ee7c3"
 
 [[files]]
+file = "config/alloy_smelter-common.toml"
+hash = "cfd36e2b1c1dd17b13db2c0a40f4d5e2d9e98847d356c8fa581b821396f8c477"
+
+[[files]]
 file = "config/alltheleaks.json"
 hash = "ed68f0c0b35f9ebbb3d3f93a4913e314b04bfdeab480fc7683bd6ae392cd2e0e"
 
@@ -234,7 +238,7 @@ hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "57b4f5b1b0fc379bdfdbaa07e2110d3150640494862ccd2edbca821dc13a40bd"
+hash = "67f3660f0bd9bcd227d4bc7c81a4542ab45eac8c65dd1f5fb629a0a824521ad3"
 
 [[files]]
 file = "config/amendments-client.toml"
@@ -750,7 +754,7 @@ hash = "8bd5823946c251dcb02eafc6c800f1927d7a02991303587d63cb06d387a56b04"
 
 [[files]]
 file = "config/asyncparticles/asyncparticles-mixin.properties"
-hash = "7a0e535bf0e8d0d1c91c8dd23d2a03fa5c8073a9bb7a6eff3e29708403d3e0f9"
+hash = "fc1d7fa5ae9ef81d17541867c31b0afaf5ba89a48d0d41fde76da869e2eab715"
 
 [[files]]
 file = "config/asyncparticles/asyncparticles.json"
@@ -798,11 +802,11 @@ hash = "797d06917505ea9abaa843524f885960f5d182c20932a7c2e958f13925395d35"
 
 [[files]]
 file = "config/bloodmagic-common.toml"
-hash = "a1cf3b60b7989eaefad693d180d1c10b32fa3ec6539ed22e3d570b25142c0e56"
+hash = "36526e6eed41cbd32ca41daab6bccd6bd3f52bf76c1038ab5b2ddc28bb369698"
 
 [[files]]
 file = "config/borninconfiguration-general.toml"
-hash = "4c101e34a7a68adde87f0666a0ad7480c68b418804ec25a59d8c4c2e93e401f4"
+hash = "04bf77e9c93918103423554c70261c152cc5b0648b4f29372b4f486b0f296bbc"
 
 [[files]]
 file = "config/boss_checklist_client.json"
@@ -818,7 +822,7 @@ hash = "069c794385b6ddcaa7c1753abea1eabf7b75b4151978d1baaafe19298c2f6c36"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "7f9d4dd987d97150390ca113855836980efb64d91164628769c2727c10c45127"
+hash = "59b87cfdfd07b6943a68f90dd87507c0ea1214e1f4fa7bb1f4b01c1344008b3c"
 
 [[files]]
 file = "config/carbonconfig.cfg"
@@ -853,6 +857,10 @@ file = "config/chloride-client.json"
 hash = "c1a9563123aafedf74a803b896e157c20b00820cc98db08af8ec52ed5ad77d98"
 
 [[files]]
+file = "config/chunkloaders-common.toml"
+hash = "09eedd11027b5da2dd7cf679406679aa4e6e58ed89777260195b56575a9ead24"
+
+[[files]]
 file = "config/chunksending.json"
 hash = "e589c5988aa0f23e08400df47ef156a61eea1978f2161ba014da278c28a60ac7"
 
@@ -870,7 +878,7 @@ hash = "12cfa8f3a24a9119aea416aab780b071a6b2d2092fde1d3adcda13fc1afbba27"
 
 [[files]]
 file = "config/clientsort.json"
-hash = "6de5f0c63a63f4b28630fb5f7189291867c1a2d7522fed6a27f4de0106d422c6"
+hash = "ff024024f83db21aed1791dd05007eee2ff0a69e7af753666db5bdec02436420"
 
 [[files]]
 file = "config/cofh_core-client.toml"
@@ -1182,7 +1190,7 @@ hash = "7ecfa3371fcc60bf07d40954c061d3dc4ec647806a9250e9cc391c35b220107d"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "f45c9587adfc439928886cdf972bfba39abdcb562a3abc70e218b1a4936cb16c"
+hash = "0e1b02c87329c8de7b3f469a3c51847ec311b27e013895c3a764096ad15be315"
 
 [[files]]
 file = "config/fancymenu/assets/concatenationtitle.png"
@@ -1211,6 +1219,10 @@ hash = "90f94ba4eb570b09ce8aca46d41f58cfd92574a13e761bebe562b058c8b25a1a"
 [[files]]
 file = "config/fancymenu/assets/event-hover.png"
 hash = "5c3fabe1d51b91654312aefdca0ca88fb611ee8d66f55f01b1eecfa4e4669da1"
+
+[[files]]
+file = "config/fancymenu/assets/event-titles/deathupdate.png"
+hash = "4209b28ba02715ed5b4bafd13ac629af67ba7d85a25ea20aefdafc33a8c7037f"
 
 [[files]]
 file = "config/fancymenu/assets/event-titles/economyfools.png"
@@ -1243,6 +1255,10 @@ hash = "fd47cfa49e1f871fd238bbca6296abe2f0f27b149e44efb577f46f5d756b8685"
 [[files]]
 file = "config/fancymenu/assets/event-titles/prudentperogative.png"
 hash = "52034a91d2a796180cb45807de89eca38ec4a1a9ee7d4be26b9a0b9238128c4c"
+
+[[files]]
+file = "config/fancymenu/assets/event-titles/refractiveratcheting.png"
+hash = "b9bdcb5fa2c967972ebcff870ee0eb7c69b233171481d0ac3386fbec1c8ae0af"
 
 [[files]]
 file = "config/fancymenu/assets/event-titles/text-changelog.png"
@@ -1342,7 +1358,7 @@ hash = "976da1cca3f7748261f2ce54215d6bdc00d1a98f43c5ce52ffec1475fa4c42af"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "a4656d70a16680bc05cd775e5ea595a22841bbda3b0f63142ca36493b33def83"
+hash = "1ba2f72155daf1fb83fb5d949b1203d89e0bd7d168c6a0bf9e41fec079792400"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout_eleonore.txt"
@@ -1350,7 +1366,7 @@ hash = "4f5641229127d4737ec5320533d76318dc029b467ba4b0c12ad8c6e2d74fe2e1"
 
 [[files]]
 file = "config/fancymenu/customization/welcomescreen_update_layout.txt"
-hash = "f05e5fb8a194fc4e3d76c10d92c895ca916562d1c7ac02e0930f9bbc074ebeac"
+hash = "e9bca0bbf97f3b2d234ea56da6be40043765de52289d91f63b1a08b6524994d0"
 
 [[files]]
 file = "config/fancymenu/customization/welcomescreen_welcome_layout.txt"
@@ -1562,27 +1578,27 @@ hash = "f0fb1f991878bc8a8f5d9d1cfbf6a32c865eae64c661ccc7fb753c48876a2d9a"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/gate_to_perdition.snbt"
-hash = "4a616506d0507543d4e64c1d5e282f7842f04219123da67abeada42722cd5d35"
+hash = "7830cf81896ab790a74df8a483817056578a2ce5adcfb70890d99b2f5160f641"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/halloween_2025.snbt"
-hash = "2f7d7bbbc1c3b14c91002dd4515dd75fa8c29b748cf59824ee06762722302dc2"
+hash = "e04def066eba440e0626df66dc870efc335f06ef17a12cef8d078ae84e2ca285"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_economy_fools.snbt"
-hash = "c28df7897a74072e5d3c607c1177231a90df98feee884fdbaf08830ac46e0f46"
+hash = "aaa7c0e35fe5b7844603a7689fa7753fca4c3a816b44ff5cb14b9e37d469748c"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_emperor.snbt"
-hash = "ade2059e49fe282ef675c3d2b24c424dd68e50d9512f551bb69a5e951421cfe2"
+hash = "016260fba478177437894cd64de524cff879fc225c5a4fbdf231378e48838b12"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_fool_and_the_world.snbt"
-hash = "e349d4c7e39b750fab97d3648c80c0ad083580000571ad03757ef1864c397f9e"
+hash = "f063ddc69990ad47aea6fd4cb169a45d813dcebf38c8a6e03197842d835f2fe1"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/the_journey.snbt"
-hash = "ba97009673206aa1233890412ba9a76a0b309365be36358322ff1462467b5253"
+hash = "04e0541770fdc727d448acf5bd4c201f499790953e38b80069991f54ae25971c"
 
 [[files]]
 file = "config/ftbquests/quests/data.snbt"
@@ -1842,7 +1858,7 @@ hash = "09e833b496652d4dd9b64e3915083ed485327bca2f06831c9b86c347f5dd1be2"
 
 [[files]]
 file = "config/ismah.json"
-hash = "e74893069a4514029ff9714287758bfbccbf7c29dd6c7680513237ecae214475"
+hash = "d34e24139df5eaaed443fc7f141e99ce11bdb450cddbbfc08d75e4be6d24583a"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -1942,7 +1958,7 @@ hash = "4e37c085446f2a5be3a3cc4765ffc9657e71473245574c3e398c64fef07615a0"
 
 [[files]]
 file = "config/lootr-common.toml"
-hash = "8be6ededd4d9b88d103ee804d6c16d8f9ff501805c0a9d05a0b71c5c660a5450"
+hash = "e45fef2a38eb829ac74bd09dd8d089ccf0434d9f20e1e254110dcc99bb74bb53"
 
 [[files]]
 file = "config/mantle-client.toml"
@@ -1954,7 +1970,7 @@ hash = "d1e8040321a75d58a472dec80d22df4010ea5965e2e73dee1ddc28e2ff69cf36"
 
 [[files]]
 file = "config/mcreator_mem_fix.json"
-hash = "4202c13c4ba62fd6042a7c06375a420aec0f872739721b4408e52d6cdf3aa4ca"
+hash = "aa8e96cdb19a4a34e892481fc747154978886940347a1c3624bbdb39e0b7f91b"
 
 [[files]]
 file = "config/mekanismcovers.json"
@@ -2058,7 +2074,7 @@ hash = "d093a6fe4805e15d875da23c40108b250f4900406e9d45b49be3ae2a5d82c99f"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "8c69e18557d317f0cbe099261bf444dc063518bb2414f3a3182ac79ea2e889d2"
+hash = "b11f975999b1b75702a255d34f32926417821bdb29d3862978ffcd89f8551243"
 
 [[files]]
 file = "config/openloader/advanced_options.json"
@@ -2150,7 +2166,7 @@ hash = "5784668de30f12908cc1cb95e7603b6b34d74017cda53f7fe5ee0c546c9e7e72"
 
 [[files]]
 file = "config/packetfixer.properties"
-hash = "c92871fb1d53884939fedaa839d386f4a4a349820c46e6e1fce15209358d1773"
+hash = "2826614dde3605dfea953e4620dd7707cfa3887d0c9bf711212aaf8dfebca9d4"
 
 [[files]]
 file = "config/particle_core_config.toml"
@@ -2183,6 +2199,10 @@ hash = "43a7425a314be7d78c2e31d44ab8f46c5ee824ab10906ab8909923d23646b6ad"
 [[files]]
 file = "config/ponder-client.toml"
 hash = "56291af4bc3506692c79f5c0155c47cce8577d0aae6ed5930c9074d5cb9bc5c8"
+
+[[files]]
+file = "config/ppfluids-common.toml"
+hash = "962a271978ada46ab0d65c3f256b446ec3d878cef7642e24ce857f5c01fd2089"
 
 [[files]]
 file = "config/psi-client.toml"
@@ -2358,7 +2378,7 @@ hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
 
 [[files]]
 file = "config/spelled-common.toml"
-hash = "a9c2c87a371a1b0cb7a2b27ec3fcfe1c84e876ad249ecd8fb1c85588aa8564fc"
+hash = "71473d3802448a077dd19815d4b6051a26a4a3395653b58db30becf68770ffd9"
 
 [[files]]
 file = "config/starterkit.json5"
@@ -2450,11 +2470,11 @@ hash = "0bd7863d9329756330aace22233dccd2a249c73690bf2e9d2659ae681936b336"
 
 [[files]]
 file = "config/stylisheffects-client.toml"
-hash = "548023798204b14017d291039b9bb6fb0f2157795d04b4c82e143c32832065f0"
+hash = "61f9a20da7565dd8c7c717291a0eea8178e30564807e56015eacb45cd98c2c57"
 
 [[files]]
 file = "config/summonerscrolls.json"
-hash = "107a20bc93c8b0779a001f503f255deab5b258b55edba36f639d48c74de8e5c8"
+hash = "6bb58f51ea8d431dcac9d0d7e9fbd2d4439528a7c06ba8b0a7a9ea6c92b9e531"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -2690,15 +2710,15 @@ hash = "a2f338c19d612c600fb8e5b837bf4d0c250683f774b67c199b57b0b43a9eff1c"
 
 [[files]]
 file = "config/world_preview/missing-colors.json"
-hash = "7733dc05a84c7be9b3049c81619793801dd9d63c1ddf64d9c8794de86104d00f"
+hash = "3efe7c6ee1b9e8cd356fd9d431ecd18808ba135461cd7841ce2b5184cafc0422"
 
 [[files]]
 file = "config/world_preview/missing-structures.json"
-hash = "7cf48205f6646c2bf332c97ddc6d2f09a8b2fb26f7a307a4e4cc8ee50e80e205"
+hash = "4b5fb03637d1d1ff51c7c05104c9e28bdb88925b2dc3ca2c4a121215011deb40"
 
 [[files]]
 file = "config/world_preview/renderConfig.json"
-hash = "1671c3af51fa9629d3edb3c8ac9bd0d9bb52d1aad0c05bc2827fa5f83262ea76"
+hash = "c0cf88902d2b2d7d72b7ad7baaa8383928376e8f86b3a179c892ad70c45f4fee"
 
 [[files]]
 file = "config/yacl.json5"
@@ -2758,7 +2778,7 @@ hash = "b6f281fe4a4e851f10cd3acb292da9f626ddf08ff6058fe039cc5297120eca29"
 
 [[files]]
 file = "emi.json"
-hash = "64c64d58c8dc1ac9cbd912f61e10aee02feda5892d37b0a491eaec268d4beb0c"
+hash = "16aecb7fd3cd313a8cf8add53c05104ee41a6170a9a8ec5c34b16e6fe4c3550c"
 
 [[files]]
 file = "fabric.toml"
@@ -2783,6 +2803,58 @@ hash = "a934c8d95d9c2a4fa232f733004b9b78adf8e80d272a1905b585f4472c5bb695"
 [[files]]
 file = "kubejs/assets/a_good_place/placement_animations/readme.md"
 hash = "22ed62191f8a50e81dfcae521005f5c40288189d5eb50d04143673833fa32a90"
+
+[[files]]
+file = "kubejs/assets/alloy_smelter/textures/block/blackstone_forge_controller_front.png"
+hash = "2b0883f709b63d9ba40a23fb8852134c0d2ac1e5076e51f156483012b83c4563"
+
+[[files]]
+file = "kubejs/assets/alloy_smelter/textures/block/blackstone_forge_controller_front_on.png"
+hash = "37d4f979f45f5e4c6ca160be28b3a39a39e4dec60142f15663bd7d8b942320f3"
+
+[[files]]
+file = "kubejs/assets/alloy_smelter/textures/block/blackstone_forge_controller_front_on.png.mcmeta"
+hash = "fca6a804063f27ece29dd10c81f16597fa7515e4c2b416804a505355baf7f2f3"
+
+[[files]]
+file = "kubejs/assets/alloy_smelter/textures/block/blackstone_forge_controller_side.png"
+hash = "c91a932d3e1ff2782c926052466259c24a4f251a8d744b9ed1bde5b436bd6586"
+
+[[files]]
+file = "kubejs/assets/alloy_smelter/textures/block/bricks_forge_controller_front.png"
+hash = "bf68a4597e0c7b316e59d419e184a03487cc8ec226e003e86e3f2211269d8024"
+
+[[files]]
+file = "kubejs/assets/alloy_smelter/textures/block/bricks_forge_controller_front_on.png"
+hash = "e65d4de40978cc9e49cc6989faa16a74aeab1bce3e19ddd74d3614c817bc5a8e"
+
+[[files]]
+file = "kubejs/assets/alloy_smelter/textures/block/bricks_forge_controller_front_on.png.mcmeta"
+hash = "fca6a804063f27ece29dd10c81f16597fa7515e4c2b416804a505355baf7f2f3"
+
+[[files]]
+file = "kubejs/assets/alloy_smelter/textures/block/bricks_forge_controller_side.png"
+hash = "807dd4bc2fcb23fb885c6c0055884ba67974b5120476076d17df4ad243278a66"
+
+[[files]]
+file = "kubejs/assets/alloy_smelter/textures/block/bricks_forge_controller_top.png"
+hash = "807dd4bc2fcb23fb885c6c0055884ba67974b5120476076d17df4ad243278a66"
+
+[[files]]
+file = "kubejs/assets/alloy_smelter/textures/block/end_stone_forge_controller_front.png"
+hash = "95ac7c746832481664bfde4643eb1d7418b58011333587bdc275c50fdc0316b2"
+
+[[files]]
+file = "kubejs/assets/alloy_smelter/textures/block/end_stone_forge_controller_front_on.png"
+hash = "17afa71d07d71a057d2b0d7777d3caf484b3a51c8ed0ac17a4238a8c44efe46e"
+
+[[files]]
+file = "kubejs/assets/alloy_smelter/textures/block/end_stone_forge_controller_front_on.png.mcmeta"
+hash = "fca6a804063f27ece29dd10c81f16597fa7515e4c2b416804a505355baf7f2f3"
+
+[[files]]
+file = "kubejs/assets/alloy_smelter/textures/block/end_stone_forge_controller_side.png"
+hash = "a59ac59f9f578f1ebe0ca894df4aa6ce0732a88bc840ee4829955bf8ca9647dd"
 
 [[files]]
 file = "kubejs/assets/ftblibrary/textures/gui/background_squares.png"
@@ -2958,7 +3030,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/client_scripts/itemNames.js"
-hash = "8cb4bc0ee3ef11c554482d8d00dfb06ce2e19f6b61ceaefc9214b3477b573569"
+hash = "574844c05b2c203187b66bd193db8c14e4eaba97feee57c2405ba63b19f22b24"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -2975,6 +3047,342 @@ hash = "b904bb5a955a48fbf74889ca482c1cd220631383461c2ac975e023e4aaced837"
 [[files]]
 file = "kubejs/data/ae2/recipes/charger/resonite_ingot.json"
 hash = "b167177d5ef7516682db8a0a2ed2bd0e3269e2f003887275dc7ef4ae73b5966b"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier1/copper_ingot.json"
+hash = "f2174bc72200e156081ba1cc3912e6d848afb22887d419d9896c5a06c9c50fb4"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier1/double_copper_ingot.json"
+hash = "3c56be06f59c6b52d31e74d7e0ed60fe7f47c904e9ca05f83cecff7671a0454c"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier1/double_gold_ingot.json"
+hash = "f38d148fa29d5c22c5b69dae7a8dfe02bd8abcf093e21bf86a3059d6821de2ae"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier1/double_iron_ingot.json"
+hash = "24f9326ef01b4de2c21725c8bc6c321097a351838ecc2d2b831db9c8e7200153"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier1/double_lead_ingot.json"
+hash = "143d9c95d7471580b6c080bc7490498ec5f9ca3c5cde61543b3c4caa197bf6a1"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier1/double_nickel_ingot.json"
+hash = "272caa29ac22c56850d686e1001165e3ea2c0d5103b9bc9d9009032745fbd0b1"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier1/double_silver_ingot.json"
+hash = "37d59b7d4d359acf7cc0d26f8c600064605e7aec48e8aca94a2c664c6b30cbaa"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier1/double_tin_ingot.json"
+hash = "067d3eb8b4bd8394ff1ffb459f78824509b3a618297ed597379b6e2bc502331d"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier1/double_zinc_ingot.json"
+hash = "73a9512fcc3c71fad462098ad750f1a10a8c40bba43cff81586791c8228c75ea"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier1/galvanized_iron.json"
+hash = "34823f17ad9c396ae21a7456e8bcbbef32d184d51d1a53a68089d30168593fad"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier1/gold_ingot.json"
+hash = "d53c1e4669d8a8417e78fc9b7c48c2d1d9f764244516589b18a80c5bb21af1bb"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier1/iron_ingot.json"
+hash = "6c1b3b25f4b395c84d8083811fcc451375959236eae5d71e3cac570c435f7f2c"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier1/lead_ingot.json"
+hash = "0115073d4b599d8ab98fd6267c4af9bad46092aa911acaf94b9b713a1d543750"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier1/nickel_ingot.json"
+hash = "06295ec69fa8942d62c1195ef27dcb0d5f2400a1845177f33c6f27dc85b96e03"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier1/silver_ingot.json"
+hash = "8af74a575d81d3f64be62bf2e6c7af3c3da1f2452233b799e34e2dc5d72ab5e1"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier1/tin_ingot.json"
+hash = "71a591bdac69d97e631192893ed19d4259f19a0c63b4575ed537efcc97c6ae0c"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier1/zinc_ingot.json"
+hash = "95e6e053b85b505e77b0dc4f3b465b423afd7c2631e4b97435b277f224d92335"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/alloy_bronze.json"
+hash = "c0e9375f142131a2ef78070f3bad6dcff58430929be449ad0e1bbc8f07b25906"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/alloy_constantan.json"
+hash = "4c1ca71a2db6130377fb7e1549bb7dfec6e53a35ef98d187716fc7f0e7df2c4f"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/alloy_ferrotin.json"
+hash = "3af3732d16201712c4117cf1449b18af05302e69044e6fece5d09c67ef0467ec"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/alloy_invar.json"
+hash = "66e03084c809bb6a6e01360a2221f9e8ba9167841f4263abf50127e119b48331"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/copper_ingot.json"
+hash = "ea831e935dc62e1ac1eeb84f9745661185f4225e46ae51c0440d9344cb0ef18c"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/demonite_ingot.json"
+hash = "c41d51480931f5115279986e1eaad4e108a1303e7ab64f39c3010b3bb6fe488d"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/double_copper_ingot.json"
+hash = "9c161776b2bcccdfedc0b7c181147c8e477ae826720b5eaeeb1dbf16b7d22340"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/double_demonite_ingot.json"
+hash = "5b07efa8a2d1558cdafd60fd991fffaa0a01851b0afcc35d6f7b9b9ad4c84658"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/double_gold_ingot.json"
+hash = "1fcfda315bfb3f0aea9d4c9591eaa70c8097e33f40f2754329773dbd707979e2"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/double_iron_ingot.json"
+hash = "998c0147c38226ab5b08ae8f7286354751cac1e6c927d86b53d2ea0840bbda53"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/double_lead_ingot.json"
+hash = "1446a9be5e2e9e31dff2d205a57a63ab4d186d5fd4e44fa77556cf12f707085a"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/double_lithium_ingot.json"
+hash = "58249f76028d5e87370e3dcf94c742f4e3cfacfe35eab53ca9436913f0c901f6"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/double_nickel_ingot.json"
+hash = "4159362ad455379de128ae50eb7b19fc5456f0c0246564ab284834bfbbf64124"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/double_seared_brick.json"
+hash = "5394b128f785b9b4224286e9a15e1bc107a815daba13a5f021273f50158631d4"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/double_silver_ingot.json"
+hash = "9aa23c4a362541a6f75e40c8369c99b27878cfc1b94b792bf9c5fb2e167b8083"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/double_tin_ingot.json"
+hash = "67dbb6a773cd9595cb5dc2313861667480e49df5ab599efba97870772c51890c"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/double_titanium_ingot.json"
+hash = "172ed92554f3e3e68c3f7ab32081118837660199ea04a80565b2544dc82a0af3"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/double_tungsten_ingot.json"
+hash = "3424504ee12a49127f975063ceddd8d3e89d64ce24024e24d2a838d5a82b6dad"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/double_zinc_ingot.json"
+hash = "8ed9372985f2cac1e50fafda4509c7ee83d2d257f75ff0c9f59f6be17531b568"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/gold_ingot.json"
+hash = "1cf10e890aee2f86c1fe8202388d30c446215f8b099529b0079f93319eb2c968"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/iron_ingot.json"
+hash = "cf10e2ea76bef2f6cce636cc823897d1951e306c7d4158b49aa46db595fc23c3"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/lead_ingot.json"
+hash = "3bef9beb4d3ef5687346c5deeb2b7a4bdb944adadc6cc802961154d6f0b8ba0a"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/lithium.json"
+hash = "bc637ec1f8a7644d924e23fc570ee592f362ffbdbe0c4cd84c33ed190e8bf8f4"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/nickel_ingot.json"
+hash = "ee2851e6675ac8a24cba5cc8ab14ff38c711158ebe20e76cc0a359c963fe9541"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/seared_brick.json"
+hash = "1fff215e0ba187843327f114e726657370dad82fab025fa41c86ec1893ef9522"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/seared_brick_controller.json"
+hash = "ac0ebe702bc0415ad86d6646625575fdb4ce38e3b96c1a53e9e1368ab7ac0e09"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/silver_ingot.json"
+hash = "6355c7a5db1d2296e69908f81eccd0239fa8bf85e7ced1a3ad96e464ad452616"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/tin_ingot.json"
+hash = "81e718a126edf474da77180f857d18f35eb9233ece48a27766a4a5d5899a9ac5"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/titanium_ingot.json"
+hash = "69ee55c62cc4c3cdfe9c9760dfda8457a5d1793320200890f680991c3fa817d5"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/tungsten_ingot.json"
+hash = "48d9a8693ac045b00edb4b136a4f711b983281725b3cb5fdfa539c65c026b365"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier2/zinc_ingot.json"
+hash = "540d8cb4fddceac4f8e1f8cc9f9a70afa9a0619e580090dfda88ce53bd55a33e"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/alloy_bronze.json"
+hash = "58ebc33d9f3df5273ba41b29056c1c3819ad882012fd6e5944da618d84fe7362"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/alloy_constantan.json"
+hash = "cad82222a96fbba9d45b2240d8555352609d542485344b6be19d679925a811b0"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/alloy_ferrotin.json"
+hash = "171d6b32a8c5fb45267ca71ad5dff811ff4b7a5092e8a77b981d554b61c9f4c2"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/alloy_invar.json"
+hash = "9ec86dda6c42ab70c6b96e456d5a9bb81f7bc09766da6e4e8b63b990c406567c"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/cobalt_ingot.json"
+hash = "0c234932d5c86f32eec2d565b9f2b0ee0ea738b42d24662065284fb5183ee351"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/copper_ingot.json"
+hash = "a4599814a2f118765932b52483d294604c24ef061d7093000b0d4e85cbd2ecea"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/demonite_ingot.json"
+hash = "08e2396959b9b4fff386cd1ab6c6def7f929f039b2a46e6bafec851af32d617b"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/double_cobalt_ingot.json"
+hash = "ea53db202d00fd8362195cb675729d4f76fec9b0ecc78e10edcb05390da50a94"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/double_copper_ingot.json"
+hash = "4b304b3afec0e16be357284db8f213f4d234c2cc42bd7425a95b19a152c9d920"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/double_demonite_ingot.json"
+hash = "7a57a0f5f6b84cb34d679d0f76b2b2d1894dc8b03081aa55683781e4d54466ff"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/double_gold_ingot.json"
+hash = "0c3d694f0a26b785aa212b71f678a6d0706f9eb91d3619f7f827fc74b42c880a"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/double_iron_ingot.json"
+hash = "ae15e355e38fcf8c3c3140345ff79af0657f0ec7a855d5b3ee146a8749da6344"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/double_lead_ingot.json"
+hash = "14e7fb26c065021cf01aa7c022f30bb78e773a2cbc73afbb5bbe76378740257f"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/double_lithium_ingot.json"
+hash = "f80bd144122fe56c9941d87bf2e6c75510d6955a6759631f74bedc430b17ff21"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/double_nickel_ingot.json"
+hash = "45a44509801d40e21144f419f75a20b84202dbfacf1e66a6609781a1b22349f6"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/double_seared_brick.json"
+hash = "808224ed3c7437c10a819d2e64b60f6e05c25254f8af7cc9079f039894bdc6ca"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/double_silver_ingot.json"
+hash = "74c513f200128a17a23a74593ef132b3b1a980172c8d4a716829f83aadd342cb"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/double_tin_ingot.json"
+hash = "bb63fcc50b4d52f560349437fc444ef9021f004f3101432fced0de00f4fe4621"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/double_titanium_ingot.json"
+hash = "a69e049e0add8be25bd0e5e4b3d96eba5e385261c46471788c826399fff59205"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/double_tungsten_ingot.json"
+hash = "f8005503ab92a3dfb4ae4e85ae054db0d576cc638ade4b477f75a97665487674"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/double_zinc_ingot.json"
+hash = "ff068f7dd5ba3c14bab14c4402eec659699f772a4077890c0ac39b715958df3c"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/gold_ingot.json"
+hash = "310696549a5c74925da987a5d6cdb06bdb94c5df06b329a315839a600c16f0a2"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/iron_ingot.json"
+hash = "604a7f0d908e3435089000123e83366619ac565c095dbb61f1b037f7c57a1519"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/lead_ingot.json"
+hash = "21f3c0b13cf715374466d922239fb64453da181a924289d8d4bcaa99693c6a1f"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/lithium.json"
+hash = "6f2ab6448da20b8b2e1b4267a6ff2d4c535c04f4074dc38c35417a99cbc3aa5f"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/nickel_ingot.json"
+hash = "98b5b463d457bf1dd90c70b3afef9be878cb0c9b9aab7b89e86e72c9ee308b94"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/seared_brick.json"
+hash = "226bb5565196855ef1a0df0489139d1ff37b2e1da4c6597e54444f13772d2705"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/seared_brick_controller.json"
+hash = "7d9cc9cb17eb0eeae4837ac5395a197383b2b4cd1d20773ef71c0919970050a9"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/silver_ingot.json"
+hash = "15e45f9293f67ca95fb0be51631b16743d44c6a7f0767d5e77cf8bfe87ea2640"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/tin_ingot.json"
+hash = "dc76a6e8a23a19656f47f4c00e445dbac5fc7840b71d64fe2a43d6a9b4d5af35"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/titanium_ingot.json"
+hash = "5fc46eb8fbba00320c6f4df201759c73a146e9fe9c55332c3845315777aadf2d"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/tungsten_ingot.json"
+hash = "c16021d1918911cde74b86d50d64abda8fc16a51cb386b81777dc26d03ca88ba"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/recipes/smelting/tier3/zinc_ingot.json"
+hash = "55b80a16996cbd88ad50e74e22838a9a52997eb3c5a51bca1004018afaa74997"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/tags/blocks/alloy_smelter_blocks_tier1.json"
+hash = "0875780962ce304c094e68d4f091364f62c7141824726e6618508b7fa1924061"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/tags/blocks/forge_controller.json"
+hash = "fc9c5e356711d695a2fcd52d9f4a21f8a27e585843725cfcab4b47b67f55592d"
+
+[[files]]
+file = "kubejs/data/alloy_smelter/tags/items/alloy_smelter_fuel.json"
+hash = "c2e02d4dea6f8bb8bef0bb43b17b3b06eeca520db6f15170547bc50aa5123b7d"
 
 [[files]]
 file = "kubejs/data/ati_structures/loot_tables/chests/aqua.json"
@@ -3065,8 +3473,12 @@ file = "kubejs/data/attributes/attributesetter/entity/ars_nouveau.json"
 hash = "7c601580bf5ab8e8bfa0720e31f8802a8c2ff93aaceee98170e63f187e183128"
 
 [[files]]
+file = "kubejs/data/attributes/attributesetter/entity/irons_spellbooks.json"
+hash = "65ec59d032720433ab1b66c27af8a640fed22ac02ac97f5dc653daec11711858"
+
+[[files]]
 file = "kubejs/data/attributes/attributesetter/entity/the_deep_void.json"
-hash = "66f1318f6e5693cd0450e50c97600271fc0df38411928ab8eaf1408e8e398e2d"
+hash = "d16e747fc9b1f7bc7b2cef5e5bf067649858dabe2033fbdc34a0a4a791d4c2a0"
 
 [[files]]
 file = "kubejs/data/concacreate/recipes/12g.json"
@@ -4606,7 +5018,7 @@ hash = "e6018b731d2019a48c500ba021d6b91440e3875182d3e0c38d23932ab620a11e"
 
 [[files]]
 file = "kubejs/server_scripts/ChariotRecipes.js"
-hash = "2e4c828969bd8fc63c754e3a33eb71e64445fd804b8d564137f3354272db8c64"
+hash = "02f43f2f66737f411f24e5e6052921f82fc20de3a4268a8d29da5257bbb6b9c7"
 
 [[files]]
 file = "kubejs/server_scripts/Crate.js"
@@ -4618,7 +5030,7 @@ hash = "11bd0f45da23c202d24693cb49a855e7d2794865d817273fca6024d92eb4b278"
 
 [[files]]
 file = "kubejs/server_scripts/HermitRecipes.js"
-hash = "710b76cfe178455028917066bdcca2608c34fd9e2d185fa66db7d002db60d307"
+hash = "448641351d7fe32f4165c98747505f0aa83146ee4f4c0d2ad18a517ce1712cc9"
 
 [[files]]
 file = "kubejs/server_scripts/HierophantRecipes.js"
@@ -4626,11 +5038,11 @@ hash = "e08e8e5acc0b3088845ffb99551611168111fa7a4ab07644fd3d3e2e234d6b9c"
 
 [[files]]
 file = "kubejs/server_scripts/HighPriestessRecipes.js"
-hash = "9bddae51bd41a7cb73c6d9729886f095a04f0c5097daf2566e1ba555cb404072"
+hash = "f59cd704c2f3124ac2eb3bfbb19d0b4d905754f9b39d72c3f6ec3de3ac9c97db"
 
 [[files]]
 file = "kubejs/server_scripts/MagicianRecipes.js"
-hash = "cdd5c474aee13951b03d0431cefc1b1e456a45e327428042d2424d78fb533824"
+hash = "dd82cc4d16d4ec0e9a587077308f2e211605acc4667fb1c75f6c11036a09d4fc"
 
 [[files]]
 file = "kubejs/server_scripts/OreUnification.js"
@@ -4646,11 +5058,11 @@ hash = "1d8c551e4116fbc0bd7bfe0b5e9724d48c63637397b5f5393e57edfd3b4b1b14"
 
 [[files]]
 file = "kubejs/server_scripts/StrengthRecipes.js"
-hash = "b95202d37e02079ea5278c900ba613b0ea28274129afa1d769f18d0dc21bee89"
+hash = "e9536d95efcd16a793151e6a4ec6ddaedf13a8172273f588f06829de0443b5a7"
 
 [[files]]
 file = "kubejs/server_scripts/TemperanceRecipes.js"
-hash = "c27d221460e238c9dd49afaddba6bdb7f6ec3359e693fb857eed00035dc5491b"
+hash = "99af7267f098180989703882001049034afc2613931af05fbefe0541dc6ca8af"
 
 [[files]]
 file = "kubejs/server_scripts/TheurgyFix.js"
@@ -4658,7 +5070,7 @@ hash = "594576188f68387eb02ebae48d23139749ca9b841b94879b8d8c4afb9174c20e"
 
 [[files]]
 file = "kubejs/server_scripts/UniversalRecipes.js"
-hash = "c1d6e44e0960320a6cee9dbc1a446e13cf98aedf6fc5663050607b1ad03e9f81"
+hash = "6e4c8f50e5d8b4235def238ed7c338f9672a2cb4997fc79cfbbfdd1fc2cf619d"
 
 [[files]]
 file = "kubejs/server_scripts/WorldDevourer.js"
@@ -4666,7 +5078,7 @@ hash = "41340c48d6f00a52fd45d5370dcb63fdd38be52ff0ec89157676f52b0f8034e8"
 
 [[files]]
 file = "kubejs/server_scripts/block_tags.js"
-hash = "a1a400c6a0c3db760a375e40d900c48fc6618ae93ace555a1efef818ac97d557"
+hash = "c6ecc55c9c97a44922bb97e0a4046333dfd24a6c60a81b0a581b0afe0ffeae63"
 
 [[files]]
 file = "kubejs/server_scripts/eventRecipes.js"
@@ -4694,15 +5106,15 @@ hash = "d608067380aaa3dc6851c41cd3a3ae4888b3f9d99b1c5ab38a59a42fd3e4509c"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
-hash = "ea4bc00c02ba8a4cb97094a91621c4f96d60517d34c145d2ab7b376a829428bd"
+hash = "ff0c60e6ca758d33f9f7a14a292d2fe3f791b7d53e8662a051bb944aa675caa8"
 
 [[files]]
 file = "kubejs/startup_scripts/displayNames.js"
-hash = "8f1ccf2c79f0e85297dd90ca93c302ce01685ffdb6b7f92130fe2cefbc6c851c"
+hash = "ca9dfb62a2db69bd6978c1a092a352f72b2e9cfac73bed2c5ebc04e1fba57966"
 
 [[files]]
 file = "kubejs/startup_scripts/toolTweaks.js"
-hash = "588dcfe3c91b72c49da6dbb9a7f97a3c04dfd12d1513979f5a1bcad55568a278"
+hash = "7a99f48de6e90702ab1cf640cf6709d54e570b448a93ce76657485342252a2d7"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -4730,6 +5142,11 @@ hash = "19f470521e7119c5fc1754e40e40b171eeef11335c54167cb482998c0737e979"
 metafile = true
 
 [[files]]
+file = "mods/alloy-smelter.pw.toml"
+hash = "74146d1f056e9bdc9080c96035a6e6432313e1de0450ec64526415730f3edc04"
+metafile = true
+
+[[files]]
 file = "mods/alltheleaks.pw.toml"
 hash = "7d83338d2e5a1c0f153c08901f9e84fa711bb4a2bfca54e93667d76705b707fe"
 metafile = true
@@ -4751,7 +5168,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "760af77648a5754eeae79f5ac1ea8309a8027f53f5db04fcc5db1b3a9aa0aa0a"
+hash = "f3ddc5ed65361138c4c66fd4abd05b6050b24362dc7bb83a5ca54eafb74dd181"
 metafile = true
 
 [[files]]
@@ -4761,7 +5178,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-mekanistics.pw.toml"
-hash = "e86f6cb8be0b72ee9920dd3745fec63eb46300d06ae78e3beb5a08dedc8ed46b"
+hash = "2434c70565f9e021d168bc6952759d1de79b4eb14856c5ca9ebe5d761fcb4efd"
 metafile = true
 
 [[files]]
@@ -4861,7 +5278,7 @@ metafile = true
 
 [[files]]
 file = "mods/blood-magic.pw.toml"
-hash = "488623331de35d0132795aeb028cca441fc0d5c2e358faf25e973894fb3859a7"
+hash = "860f219704b38c996ddb8eb395bbc3523eece6e3e8d7f23dca7aadd2a76f4fdf"
 metafile = true
 
 [[files]]
@@ -4881,7 +5298,7 @@ metafile = true
 
 [[files]]
 file = "mods/born-in-configuration.pw.toml"
-hash = "b0e44c7ed9ca11cc49a1d89073fc25de1e078be016f0b44897ffd54ddac1f155"
+hash = "22184a3b9e5c37e9b06776e3330769438435c04f0878bd67e4a7d8ee59062ac8"
 metafile = true
 
 [[files]]
@@ -4950,6 +5367,11 @@ hash = "3f356a958e4e34d15ec7fac9b881f2ca914ad46c8f067e467c12de8f072a9768"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "913bbc46f7ebbae12ee05efee5810b4c56a027336acc929951ee3bae1f084275"
+metafile = true
+
+[[files]]
 file = "mods/chunk-sending-forge-fabric.pw.toml"
 hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
 metafile = true
@@ -4977,6 +5399,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
+metafile = true
+
+[[files]]
+file = "mods/co-lib.pw.toml"
+hash = "0b2653455de992e553bcdecbad34e8b8d64390ad3df7e9655d5ac19ae1dd3640"
 metafile = true
 
 [[files]]
@@ -5021,7 +5448,7 @@ metafile = true
 
 [[files]]
 file = "mods/concatenation-core.pw.toml"
-hash = "1f835ece4340c51b9a345fbbdbdb542d2f2faa215d950a3ae80d4ec85119cf1b"
+hash = "bdce4dfdcf533292edb28e88526a2ec73b726c5134b6fe39df5484ede49bf872"
 metafile = true
 
 [[files]]
@@ -5482,7 +5909,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-quests-forge.pw.toml"
-hash = "58f16da5ab246ebc5f72a6742775d0a74c2f0df6f44f54dc5e25e331d2855279"
+hash = "8bf558bb846804bbf5858fd795617509caabab721adb6f8c4ad185e75f514532"
 metafile = true
 
 [[files]]
@@ -5810,7 +6237,7 @@ metafile = true
 
 [[files]]
 file = "mods/lootr.pw.toml"
-hash = "b500ccc37090c11729d8d835058b8d7f0dbdd98ec83a75924ea84d8860587176"
+hash = "e8b4876d403b4f4daab64bad9704a5b271a33031d1ff8d19d23ebd1e3b8dd39a"
 metafile = true
 
 [[files]]
@@ -6043,7 +6470,7 @@ metafile = true
 
 [[files]]
 file = "mods/perdition.pw.toml"
-hash = "53c2ed509a7c2fae2d1764e9e8d82fa8836f15a4f50255867d603dee3592f089"
+hash = "d050cd87f8a15cf3dc7602755be2466805bdcc6778d77e536878502c873e4132"
 metafile = true
 
 [[files]]
@@ -6074,6 +6501,16 @@ metafile = true
 [[files]]
 file = "mods/polymorphic-energistics.pw.toml"
 hash = "2d47877684bd91ad4c597b68bae4a8af3964011bfc0fd52e004469368f23b834"
+metafile = true
+
+[[files]]
+file = "mods/pretty-pipes-fluids.pw.toml"
+hash = "adcd69871a87d725570579f2e20de0792d34c7d4501eec10bc76bf9554fa6df8"
+metafile = true
+
+[[files]]
+file = "mods/pretty-pipes.pw.toml"
+hash = "0729cfefad5651843eb27cc59464ca1ba9d4221f4f9393291a66645817944122"
 metafile = true
 
 [[files]]
@@ -6330,6 +6767,11 @@ hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "4ddff1daf862f7e481a6c30c4cbb4bb32165f2c73cefc908dbf62b18f0d46a56"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "31883f2697767614c5b0671e9600c4e584c8e60be8062867667ddfc9d2624e23"
 metafile = true
@@ -6360,6 +6802,11 @@ hash = "9ac5e8e1ab023cedb299a745a00201d19fd36ec289a74169071774f119efed53"
 metafile = true
 
 [[files]]
+file = "mods/thermal-construct.pw.toml"
+hash = "51a5e80c7422e2555895a76efde0a83064cb0b5d2d1ffa40e7757deb66bfa2a0"
+metafile = true
+
+[[files]]
 file = "mods/thermal-cultivation.pw.toml"
 hash = "a2b0b8b765b7d8ef735276c0c09488353da50671f3a62684b1046a052f3a8a15"
 metafile = true
@@ -6382,6 +6829,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-integration.pw.toml"
 hash = "ed869df5d51c4496840f3d5fb2c9d86bab6cf25f8b12eb7dda139aaa65b18d05"
+metafile = true
+
+[[files]]
+file = "mods/thermal-processing.pw.toml"
+hash = "8776ede62e994d62748a5de106c00ecea2ec4cd3fd059a6aaab5c278aa4da649"
 metafile = true
 
 [[files]]
@@ -6420,7 +6872,7 @@ metafile = true
 
 [[files]]
 file = "mods/tmrv.pw.toml"
-hash = "85b4d99a92e8b060aa59760828f351b3772e59e6bd57480ded901f505756d2ff"
+hash = "ac7bedc18b70e2d1ab73926c9abdf052d1396ed2eb37a3e0fce54f45ca7b9b40"
 metafile = true
 
 [[files]]
@@ -6481,6 +6933,11 @@ metafile = true
 [[files]]
 file = "mods/underground-rivers.pw.toml"
 hash = "f9960ecafbe48cfc97124a1b5a3a52636be4988910d076417acabb13bf860e51"
+metafile = true
+
+[[files]]
+file = "mods/uppers.pw.toml"
+hash = "7d4883117ff8ab8e5d54204a7b5fa9ebbc4a8fae3f6cb5e8c1484d5c4b682705"
 metafile = true
 
 [[files]]
@@ -6575,6 +7032,10 @@ hash = "1eba2356fa9c09bd3e6d71a43209396d4b53bfa096c1c50249026e0054638f40"
 [[files]]
 file = "shaderpacks/Mellow Shader v1.5.5a.zip.txt"
 hash = "e44eaca9d27f014c1e81bd142b25cd92e6b847b4e44e275164ec2c20fe890ce1"
+
+[[files]]
+file = "shaderpacks/Mellow Shader v2.2.zip.txt"
+hash = "11d9eb13a6be4ceb3275549a39726f69bf551d1ab7d5428542a2bec174f555b1"
 
 [[files]]
 file = "shaderpacks/mellow.pw.toml"

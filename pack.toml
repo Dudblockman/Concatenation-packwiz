@@ -1,14 +1,14 @@
 name = "Concatenation"
-version = "1.3.3"
+version = "1.3.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a5e28c5a5b0aabc235b7e79e6af2003f2582703cb01c38ec60bb67345ee45e57"
+hash = "456d58f66ac2c7da05b51630cbf79cd1a7ec23c99fb0395c5db17ef886a8da59"
 
 [versions]
-forge = "47.4.0"
+forge = "47.4.10"
 minecraft = "1.20.1"
 
 [options]
