@@ -1,0 +1,13 @@
+name = "Thermal Processing"
+filename = "thermal_processing_v2.0.4-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c67f67994a7669fdfccad20dea5e52f97b2ed33"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6796634
+project-id = 913990
