@@ -6419,6 +6419,11 @@ hash = "3402035ec742ef149a02ee4287b55789ba5b5a87099f660697acb55f0dae26e4"
 metafile = true
 
 [[files]]
+file = "mods/observable.pw.toml"
+hash = "5d0eae777859369335212a6a68a0c835fc7487ace8016749fe9f377de1c4b392"
+metafile = true
+
+[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "320c4d3a50b1f2f45d64d2f88c8c16473bc85b95d67e54ff93205ac9d2ead3cf"
 metafile = true
