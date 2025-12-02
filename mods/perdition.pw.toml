@@ -1,13 +1,13 @@
 name = "Perdition"
-filename = "perdition-1.2.2-forge-1.20.1.jar"
+filename = "perdition-1.2.3-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a26760d5e82afc4f3d4d0cea197a5d885856b964"
+hash = "051d6533f3c347598472e0a8e4ca6c5bd8543d54"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7266499
+file-id = 7280485
 project-id = 1356002
