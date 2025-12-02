@@ -5596,6 +5596,11 @@ hash = "1d9d72055b09d16ca9d55951b4d9d93dfe0590f9d3a0418560d0af6527849d3c"
 metafile = true
 
 [[files]]
+file = "mods/create-packagers-psi-compat.pw.toml"
+hash = "699a6136d694cac53930178ddeac9311edb0f357d8a8d196015fe6b78910dcac"
+metafile = true
+
+[[files]]
 file = "mods/create-radars.pw.toml"
 hash = "123f39fa64cda16f36cb6da7b547e49c482baf6a79f7b7f87b4004d21dd059b5"
 metafile = true
