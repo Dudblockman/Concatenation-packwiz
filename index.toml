@@ -5402,11 +5402,6 @@ hash = "e3173aaa4e9078ad7ace2b9ef43ce15ce9919c0b566d8830cea87264f92b3a6a"
 metafile = true
 
 [[files]]
-file = "mods/co-lib.pw.toml"
-hash = "0b2653455de992e553bcdecbad34e8b8d64390ad3df7e9655d5ac19ae1dd3640"
-metafile = true
-
-[[files]]
 file = "mods/cobweb.pw.toml"
 hash = "bc5bde51620622b9f415bcc3dfea4dca5bd17171383cf4290e1075b7352adbe0"
 metafile = true
@@ -5445,6 +5440,10 @@ metafile = true
 file = "mods/common-network.pw.toml"
 hash = "fdf6907c29fa9ded3d3ab3ce04853f59256978dbfefe6af8618c492677c875e2"
 metafile = true
+
+[[files]]
+file = "mods/common_ore_library_v2.0.1-1.20.1.jar"
+hash = "fc71e360b1ae8dd52c896bb4a9d1f944d96be80d3852662a315a302b7d43e379"
 
 [[files]]
 file = "mods/concatenation-core.pw.toml"
@@ -6837,9 +6836,8 @@ hash = "ed869df5d51c4496840f3d5fb2c9d86bab6cf25f8b12eb7dda139aaa65b18d05"
 metafile = true
 
 [[files]]
-file = "mods/thermal-processing.pw.toml"
-hash = "8776ede62e994d62748a5de106c00ecea2ec4cd3fd059a6aaab5c278aa4da649"
-metafile = true
+file = "mods/thermal_processing_v2.0.4-1.20.1.jar"
+hash = "c7ea88b82ab883542dc15ecc8487cca17a054d01b716e276dcf7f9bf2cc7c87c"
 
 [[files]]
 file = "mods/theurgy.pw.toml"
