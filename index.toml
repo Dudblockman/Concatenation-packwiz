@@ -6031,11 +6031,6 @@ hash = "1a6b03437d3f80ac96348dc8e5f1077f3271f594a8a560c43375117fd8f176c1"
 metafile = true
 
 [[files]]
-file = "mods/hex-casting.pw.toml"
-hash = "59a167a2e05a518d25d1e6f1b4789bad66a47e7fa2909817c5ec433c7aa46661"
-metafile = true
-
-[[files]]
 file = "mods/hexal.pw.toml"
 hash = "05f0aaf63c00487b7e7744c940dc5e4aacdf5843fe6368c3ac22ab07b52f3124"
 metafile = true
@@ -6047,7 +6042,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexcasting.pw.toml"
-hash = "ded41a5d1d88d386654ea5d55452ecf1aa95c136842894930009f6e2b67d5181"
+hash = "df0bc0ad5b00c9a0f2900b3f8866825c1ba8f21e55b1f8b92ff264d43c13093e"
 metafile = true
 
 [[files]]
@@ -6057,7 +6052,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexdebug.pw.toml"
-hash = "4c86523a9d9ab67fd3f5052dc09df57719990c4949a991d16e0a8338e66d7a4e"
+hash = "8e5c264a9739e979d3b88f06a07d3e4363ab688937fc6c4d84642f8257196015"
 metafile = true
 
 [[files]]
@@ -6066,7 +6061,7 @@ hash = "419db9f15af0ac694dc53a9cc99fa97c3a0ef787ae3d43d9aff87d2030e3f556"
 
 [[files]]
 file = "mods/hexflow.pw.toml"
-hash = "62561d68f9d88a6784f861437c3217486735294631492312b4dbc3f509753258"
+hash = "48e27a22fc98d61af74cd5a7288bd6e3b4abf5cb859ff558da27e1d211a90d5f"
 metafile = true
 
 [[files]]
