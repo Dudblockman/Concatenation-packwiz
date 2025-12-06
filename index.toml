@@ -5142,7 +5142,7 @@ hash = "40e20fc8c31cf3f6c494c8938447c275a8132efcfe053887f640a341637eb356"
 
 [[files]]
 file = "kubejs/server_scripts/sol_foods.js"
-hash = "d608067380aaa3dc6851c41cd3a3ae4888b3f9d99b1c5ab38a59a42fd3e4509c"
+hash = "1db660c7adba5648a42d1a586188af859d95c3faec93f34bc87dc8d24daba7ac"
 
 [[files]]
 file = "kubejs/server_scripts/tags.js"
@@ -5647,6 +5647,11 @@ metafile = true
 [[files]]
 file = "mods/create-packagers-psi-compat.pw.toml"
 hash = "699a6136d694cac53930178ddeac9311edb0f357d8a8d196015fe6b78910dcac"
+metafile = true
+
+[[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "e7b1d1aa7bb29856bf3ad1c5ca60871164bd04137564046e2054138b96a30989"
 metafile = true
 
 [[files]]

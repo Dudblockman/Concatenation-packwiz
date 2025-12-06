@@ -16,7 +16,12 @@ ServerEvents.tags('item', event => {
 		'born_in_chaos_v1:elixirof_wither_resistance',
 		'born_in_chaos_v1:elixirof_ice_barrier',
 		'born_in_chaos_v1:intoxicating_decoction',
-		'born_in_chaos_v1:stimulating_decoction'
+		'born_in_chaos_v1:stimulating_decoction',
+		'kismet:kismet_battery',
+		'kismet:synthetic_organ',
+		'kismet:organ_regrower',
+		'hexical:hexburst',
+		'hexical:hextito'
 	]);
     add('sol_valheim_reforged:high_nutrients', [
         'born_in_chaos_v1:eternal_candy'
