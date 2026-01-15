@@ -4,7 +4,8 @@ ServerEvents.recipes(event => {
         'strangematter:resonant_circuit',
         'strangematter:resonant_coil',
         'strangematter:research_tablet',
-        'kismet:synthetic_organ'
+        'kismet:synthetic_organ',
+        'strangematter:tinfoil_hat'
     ].forEach(item => event.remove({ output: item }));
 
     event.replaceInput(
@@ -446,9 +447,37 @@ ServerEvents.recipes(event => {
             'kismet:kismet_plating',
             'concatenationcore:alclad',
             'strangematter:resonite_ingot',
-            'minecraft:fire_charge',
+            '#concatenation:firing_item',
             'concatenationcore:hammer'
         ]
+    )
+    event.shaped(
+        Item.of('kismet:synthetic_organ'),
+        [
+            'ABA',
+            'CDC',
+            'AEA'
+        ],
+        {
+            E: 'kismet:conglomerated_organ',
+            B: 'strangematter:resonant_circuit',
+            A: 'kismet:kismet_plating',
+            D: 'strangematter:stabilized_core',
+            C: 'strangematter:resonant_coil'
+        }
+    )
+    event.shaped(
+        Item.of('strangematter:tinfoil_hat'),
+        [
+            'AAA',
+            'ABA',
+            ' C '
+        ],
+        {
+            A: 'thermal:tin_ingot',
+            C: '#concatenation:hammers',
+            B: 'strangematter:resonant_coil'
+        }
     )
 
     event.recipes.minecraft.smelting(

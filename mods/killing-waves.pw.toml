@@ -1,0 +1,13 @@
+name = "Killing Waves"
+filename = "killingwaves-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01e28de0922160c7d450ea752229dc17371c8824"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7306515
+project-id = 1400103

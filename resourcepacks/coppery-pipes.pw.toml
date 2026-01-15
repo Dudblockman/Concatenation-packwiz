@@ -1,0 +1,13 @@
+name = "Coppery Pipes"
+filename = "coppierpipes.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d39d6fd20ec1cbf14a49f850b3f3bf9e0efacc10"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7367602
+project-id = 1411572

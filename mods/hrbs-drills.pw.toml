@@ -1,0 +1,13 @@
+name = "HRB's Drills"
+filename = "hrbsdrills-1.1.2-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f1a7c085a02e933d251f31fd3b7722530b06aeaf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5864677
+project-id = 971798

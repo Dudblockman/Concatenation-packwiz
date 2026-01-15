@@ -1,13 +1,13 @@
 name = "Strange  Matter"
-filename = "strangematter-1.20.1-0.2.7.jar"
+filename = "strangematter-0.3.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "cc5e31f53ef3319142becad2d6bbe1b08fdfca26"
+hash = "e9d07bd26a051f5f1fc6ca55a5c5163306f2b513"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7180329
+file-id = 7342906
 project-id = 1344073

@@ -1,0 +1,13 @@
+name = "Spawner Tweaks"
+filename = "spawner_tweaks-1.20.x-Forge-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fcfdebe27e7e0bc2164bcdee82cf7be2527d7dc3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6046747
+project-id = 1169074

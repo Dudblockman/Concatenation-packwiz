@@ -1,0 +1,13 @@
+name = "Structures Loot Tweak"
+filename = "structuresloottweak-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f90570aa4f69103faef1cbc870dbc2ef06526d0f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7312162
+project-id = 1401200

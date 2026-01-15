@@ -1,0 +1,13 @@
+name = "Not So Tuff"
+filename = "notsotuff-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "86c12a45c76161d5a6d5eabc352eda898fcb8798"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7306594
+project-id = 1400112
