@@ -3965,11 +3965,6 @@ hash = "915f3ec2dc60689d3ef4ee91cec6a6a21bf7ba6a4e46a0a16a2c555b4f3777e6"
 metafile = true
 
 [[files]]
-file = "mods/create-thermal-compat.pw.toml"
-hash = "6ac3f28e99bb1a5656edbafa7194ec0089ec9982a93b90ab2b1cbabd52a9391c"
-metafile = true
-
-[[files]]
 file = "mods/create-trading-floor.pw.toml"
 hash = "e1b50b2ab396a0768e954ecdbabdc22e35ed02db78333ed3c140f8fcf116fb3f"
 metafile = true
@@ -3978,6 +3973,10 @@ metafile = true
 file = "mods/create.pw.toml"
 hash = "26b5eb49763ba8b3078ea93222f2b73e86ad4b3b2030a1b7628aab37b9061ae2"
 metafile = true
+
+[[files]]
+file = "mods/create_thermal-1.0.0-forge-1.20.1.jar"
+hash = "a07c5418489de73b2eb7d4330055c9ddea6cac7c95c351505ef4168fb1dbdf7a"
 
 [[files]]
 file = "mods/createaddition.pw.toml"
@@ -4005,9 +4004,8 @@ hash = "7e0bab3d8b1f528c07ef6758343b5bf85458861ab4b722d31664f10f9969ce9c"
 metafile = true
 
 [[files]]
-file = "mods/cyberspace.pw.toml"
-hash = "f545e4ffce8f8e3ba6beb9b19c182ab1db11353171e2217cae746245bb1bf2e5"
-metafile = true
+file = "mods/cyberspace 2.2.0 (F1.20.1).jar"
+hash = "df3d6301085224bab43f0616e0315100886343f8f4826fc1ee89587330bdb624"
 
 [[files]]
 file = "mods/cyclops-core.pw.toml"
@@ -5240,11 +5238,6 @@ hash = "9ac5e8e1ab023cedb299a745a00201d19fd36ec289a74169071774f119efed53"
 metafile = true
 
 [[files]]
-file = "mods/the-submarine.pw.toml"
-hash = "e4d5ca9862b6bd1d9e3e6d664dda0b5ce6f79e22fd98a6eb84ead216d02b39b4"
-metafile = true
-
-[[files]]
 file = "mods/thermal-construct.pw.toml"
 hash = "51a5e80c7422e2555895a76efde0a83064cb0b5d2d1ffa40e7757deb66bfa2a0"
 metafile = true
@@ -5277,6 +5270,10 @@ metafile = true
 [[files]]
 file = "mods/thermal_processing_v2.0.4-1.20.1.jar"
 hash = "c7ea88b82ab883542dc15ecc8487cca17a054d01b716e276dcf7f9bf2cc7c87c"
+
+[[files]]
+file = "mods/thesubmarinemod-1.0.0-forge-1.20.1.jar"
+hash = "e369a3587e20efeeddabe6323f58000696df1c489876501d947d0ee6e59478c3"
 
 [[files]]
 file = "mods/theurgy.pw.toml"
