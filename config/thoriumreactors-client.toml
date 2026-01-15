@@ -13,11 +13,11 @@
 
 ["Creative TAB and JEI"]
 	#Show fluid creative tanks in Just Enough Items (JEI)
-	showCreativeEnergyTanksInJEI = true
+	showCreativeEnergyTanksInJEI = false
 	#Show fluid creative tanks in creative tab
-	showCreativeEnergyTanksInCreativeTAB = true
+	showCreativeEnergyTanksInCreativeTAB = false
 	#Show fluid creative tanks in Just Enough Items (JEI)
-	showCreativeFluidTanksInJEI = true
+	showCreativeFluidTanksInJEI = false
 	#Show fluid creative tanks in creative tab
-	showCreativeFluidTanksInCreativeTAB = true
+	showCreativeFluidTanksInCreativeTAB = false
 

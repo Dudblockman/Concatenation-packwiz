@@ -1,0 +1,13 @@
+name = "Extended Alloy Smelters"
+filename = "extendedalloysmelters-1.0.1-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0abb76a9402264a8e3d9632d492b154f5c2701fb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7409618
+project-id = 1411477

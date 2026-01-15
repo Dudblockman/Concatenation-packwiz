@@ -13,10 +13,13 @@
     "concatenationcore",
     "perdition",
     "tfmg",
+    "ae2",
     "the_deep_void",
+    "mcore",
     "thoriumreactors",
     "common_ore_library",
-    "refurbished_furniture"
+    "refurbished_furniture",
+    "ars_technica"
   ],
   "stoneStrata": [
     "stone",
@@ -88,6 +91,7 @@
     "plastic",
     "rubber",
     "ruby",
+    "rose_gold",
     "sapphire",
     "signalum",
     "salt",
@@ -95,7 +99,9 @@
     "steel",
     "sulfur",
     "tin",
+    "titanium",
     "tungsten",
+    "quartz",
     "uranium",
     "zinc"
   ],

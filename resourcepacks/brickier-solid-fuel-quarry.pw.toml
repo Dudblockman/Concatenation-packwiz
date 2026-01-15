@@ -1,0 +1,13 @@
+name = "Brickier Solid Fuel Quarry"
+filename = "brickiersolidfuelquarry.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e4da4afa9dcab5876204123568b862e5537e105d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7367637
+project-id = 1411578

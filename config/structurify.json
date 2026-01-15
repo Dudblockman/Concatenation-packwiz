@@ -302,8 +302,8 @@
       "salt": 734441625,
       "frequency": 1.0,
       "override_global_spacing_and_separation_modifier": true,
-      "spacing": 25,
-      "separation": 20
+      "spacing": 512,
+      "separation": 511
     }
   ]
 }
