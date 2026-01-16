@@ -1,13 +1,13 @@
 name = "Tweaks addon for MineColonies"
-filename = "MineColonies_Tweaks-1.20.1-2.93-all.jar"
+filename = "MineColonies_Tweaks-1.20.1-2.95-all.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c1b0dcfff3e55e1f6fcf20484b89e9f3151c60d3"
+hash = "df1ca6a76d8bbb442cc79249ddbf8ca3f7102c8a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7316170
+file-id = 7454496
 project-id = 975812

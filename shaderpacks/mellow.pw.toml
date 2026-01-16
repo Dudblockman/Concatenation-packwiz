@@ -1,13 +1,13 @@
 name = "Mellow"
-filename = "Mellow Shader v1.5.5a.zip"
+filename = "Mellow v2.2.1.zip"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "fd7ecc8d6172eeb793c06efd854d8dc2972c6d1c"
+hash = "b7153a160720f540dfc7c5934f5cc885e7310285"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6363699
+file-id = 7356479
 project-id = 1113130

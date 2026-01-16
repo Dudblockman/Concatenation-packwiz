@@ -1,13 +1,13 @@
 name = "Packages"
-filename = "packages-1.20.1-forge-2025.10.21.jar"
+filename = "packages-1.20.1-forge-2025.12.23.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "beec837e12dfad80dbef6266b30c9529ecf7f687"
+hash = "a47533a026d76f8a36be187b92a7e3378433708a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7134451
+file-id = 7370945
 project-id = 383733
