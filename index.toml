@@ -2842,7 +2842,7 @@ hash = "2f51a3d5f321d31c4c9ac2c0921ed007fcfd7ba14cdb8625802f12148bdfc980"
 
 [[files]]
 file = "fabric.toml"
-hash = "d571400f25f4763559df119c46f2cd303f769c1ce2dc137000571cde44bf6581"
+hash = "d0b90513bb6994fe2c3fb17dbb7340f5084baffaf315e2be052a30b078da8547"
 
 [[files]]
 file = "kubejs/README.txt"
