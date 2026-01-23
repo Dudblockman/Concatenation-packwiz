@@ -1,13 +1,13 @@
 name = "Client Sort"
-filename = "clientsort-forge-2.1.5+1.20.1.jar"
+filename = "clientsort-forge-2.1.6+1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8378e0ccb3e6f91692dc8795248b53e6d6e51f89"
+hash = "5aebbe300d516b8fcb85a3d442b8487b2d2eadbc"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7359713
+file-id = 7439974
 project-id = 1049891

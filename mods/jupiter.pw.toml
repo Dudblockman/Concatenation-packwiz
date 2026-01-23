@@ -1,0 +1,13 @@
+name = "Jupiter"
+filename = "jupiter-2.3.3-bugfix-1.20.1-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f4e2a8b05268862efd24f6a0ccc5c6a229c8041c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7372551
+project-id = 1072905

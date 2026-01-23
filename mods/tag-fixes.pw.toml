@@ -1,13 +1,13 @@
 name = "Tag Fixes"
-filename = "tagfixes-1.0.0-forge-1.20.1.jar"
+filename = "tagfixes-1.0.3-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a5831a2707efee510b9b5b61549f1fd986ab366d"
+hash = "af1a5a58260fb128740b76c9ccabf9f563f8041c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7399422
+file-id = 7460633
 project-id = 1416898

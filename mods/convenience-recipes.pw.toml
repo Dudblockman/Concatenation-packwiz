@@ -1,13 +1,13 @@
 name = "Convenience Recipes"
-filename = "conveniencerecipes-1.0.4-1-forge-1.20.1.jar"
+filename = "conveniencerecipes-1.0.5-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "8e3d5308e07cf9d60cb700812a56bf48976fe902"
+hash = "58b878e3e0f7fa5897197e17afe16766b778a823"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7403010
+file-id = 7456991
 project-id = 1396136
