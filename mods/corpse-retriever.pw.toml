@@ -1,0 +1,13 @@
+name = "Corpse Retriever"
+filename = "corpsecommand-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "67ef7b5ae2ef734bcef34695ba33bef87c7663e7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7453470
+project-id = 1427764

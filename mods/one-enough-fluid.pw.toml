@@ -1,0 +1,13 @@
+name = "One Enough Fluid"
+filename = "OneEnoughFluid-1.1.0-jech.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "80239f8fcf3801f226e4475f388bac44fceb49f2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7268089
+project-id = 1366406

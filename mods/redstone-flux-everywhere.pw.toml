@@ -1,0 +1,13 @@
+name = "Redstone Flux Everywhere"
+filename = "redstone_flux-1.20.1-Forge-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6d7c42a278cffb665c18143f0395c58743782682"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7466066
+project-id = 1384637

@@ -1,0 +1,13 @@
+name = "WITS Prettified (What Is This Structure Prettified)"
+filename = "prettifiedwits-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b8d4361c0af175f0f62efa4278e57b01d8739a63"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7453243
+project-id = 1427483
