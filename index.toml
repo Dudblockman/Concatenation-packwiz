@@ -6231,11 +6231,6 @@ hash = "558da2eda7d518b579cab8b533506008b7dd2aa4943201198052aee075cfc346"
 metafile = true
 
 [[files]]
-file = "mods/mana-unification.pw.toml"
-hash = "c2bde4282262f83c77ad98598c74289c562251d10a6195a7f44ff42382715093"
-metafile = true
-
-[[files]]
 file = "mods/mantle.pw.toml"
 hash = "f5770197f30417cfbe5306ad84aab85cab79bf17958aa4d1d962a55cc659a320"
 metafile = true
