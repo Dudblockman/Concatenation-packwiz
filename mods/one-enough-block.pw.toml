@@ -1,13 +1,13 @@
 name = "One Enough Block"
-filename = "OneEnoughBlock-1.1.2.jar"
+filename = "OneEnoughBlock-1.1.3.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ec21c5371c0058f004245e3b901006559034523a"
+hash = "49d7d6c6c4620fc2d80d9c54fdafb1357c9bdca8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7445902
+file-id = 7486868
 project-id = 1356867

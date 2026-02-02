@@ -1,13 +1,13 @@
 name = "Theurgy"
-filename = "theurgy-1.20.1-1.25.0.jar"
+filename = "theurgy-1.20.1-1.26.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "22a9af9896b7a8d0ed0caef84ca2d4d6f5875ffa"
+hash = "0061afaf2da6c3de77d5a00c474d913e3bad050b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7065730
+file-id = 7550381
 project-id = 430636

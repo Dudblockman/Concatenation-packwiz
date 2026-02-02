@@ -1,13 +1,13 @@
 name = "Thermal Construct"
-filename = "thermalconstruct-1.20.1-0.0.3.jar"
+filename = "thermalconstruct-1.20.1-0.0.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f6759161c8238dd08b38317144919b69e984f61c"
+hash = "fb9d9e9d53a4b21863fa99ab90d51b478df02acf"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6992269
+file-id = 7560401
 project-id = 1280482

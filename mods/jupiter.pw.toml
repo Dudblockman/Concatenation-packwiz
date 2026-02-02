@@ -1,13 +1,13 @@
 name = "Jupiter"
-filename = "jupiter-2.3.3-bugfix-1.20.1-forge.jar"
+filename = "jupiter-2.3.4-1.20.1-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f4e2a8b05268862efd24f6a0ccc5c6a229c8041c"
+hash = "f869d5bf8e10d81cb352d6f1c2f03836f5df0d69"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7372551
+file-id = 7506590
 project-id = 1072905

@@ -1,13 +1,13 @@
 name = "The Mighty Architectury"
-filename = "mightyarchitect-0.9.0-FORGE.jar"
+filename = "mightyarchitect-1.20.1-0.9.0+41-forge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/FDYDUHRw/versions/Exk4AA4x/mightyarchitect-0.9.0-FORGE.jar"
+url = "https://cdn.modrinth.com/data/FDYDUHRw/versions/Q9V7AYsq/mightyarchitect-1.20.1-0.9.0%2B41-forge.jar"
 hash-format = "sha512"
-hash = "e43c52110f4fe712d5fb4295c5de0dfcc22fb8c00cd80b57b365997cbfacbb6b6360e9b3d208a3027a52af56fee7665bda0ece232834b59c7ca63b0d68a3fe30"
+hash = "9ba118128b00fb5abb1c9d5ab9c9dad002bf010c364aa6fdda6ecc03a63b8e6aef2bf361fc3e1abe77e4f3652158f077b622224a96cd6c820b8c85d864653eda"
 
 [update]
 [update.modrinth]
 mod-id = "FDYDUHRw"
-version = "Exk4AA4x"
+version = "Q9V7AYsq"
